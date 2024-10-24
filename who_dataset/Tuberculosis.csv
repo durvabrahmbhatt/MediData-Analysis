@@ -1,0 +1,2016 @@
+,,,,,,,,,,,
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,Age-standardized death rate per 100 000 standard population,Death rate per 100 000 population
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age25_29,[25-29],3,0.245902,,0.141861
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age30_34,[30-34],2,0.121581,,0.087337
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age35_39,[35-39],3,0.111899,,0.111209
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age40_44,[40-44],2,0.05144,,0.07666
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age45_49,[45-49],3,0.057537,,0.129357
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age50_54,[50-54],5,0.06689,,0.244546
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age55_59,[55-59],4,0.042831,,0.257153
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age60_64,[60-64],8,0.065542,,0.635364
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age65_69,[65-69],16,0.089495,,1.401935
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age70_74,[70-74],20,0.078703,,1.996122
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age75_79,[75-79],20,0.060803,,2.483725
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age80_84,[80-84],22,0.065492,,4.421542
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age85_over,[85+],30,0.050314,,7.260319
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age20_24,[20-24],2,0.157853,,0.094772
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age25_29,[25-29],1,0.080775,,0.048225
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age30_34,[30-34],2,0.123762,,0.089295
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age35_39,[35-39],4,0.151,,0.151677
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age40_44,[40-44],1,0.026116,,0.037669
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age45_49,[45-49],1,0.018222,,0.042051
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age50_54,[50-54],4,0.052493,,0.188982
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age55_59,[55-59],6,0.063857,,0.368537
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age60_64,[60-64],6,0.049587,,0.465671
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age65_69,[65-69],14,0.08022,,1.226258
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age70_74,[70-74],16,0.064159,,1.569659
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age75_79,[75-79],23,0.071029,,2.809428
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age80_84,[80-84],26,0.075079,,4.969239
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age85_over,[85+],39,0.063634,,9.282267
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age20_24,[20-24],1,0.080775,,0.046504
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age25_29,[25-29],1,0.087413,,0.047667
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age30_34,[30-34],1,0.063898,,0.044664
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age35_39,[35-39],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age40_44,[40-44],2,0.052329,,0.074324
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age45_49,[45-49],2,0.035887,,0.081583
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age50_54,[50-54],3,0.039651,,0.140103
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age55_59,[55-59],8,0.079721,,0.458286
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age60_64,[60-64],5,0.039885,,0.373984
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age65_69,[65-69],11,0.063776,,0.963966
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age70_74,[70-74],20,0.081113,,1.934599
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age75_79,[75-79],33,0.101044,,3.983583
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age80_84,[80-84],28,0.077866,,5.04771
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age85_over,[85+],28,0.044131,,6.434992
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age10_14,[10-14],1,0.338983,,0.047137
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age25_29,[25-29],1,0.083612,,0.047114
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age30_34,[30-34],1,0.0668,,0.044751
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age35_39,[35-39],2,0.083195,,0.080383
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age40_44,[40-44],1,0.025569,,0.036716
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age45_49,[45-49],2,0.034898,,0.079434
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age50_54,[50-54],1,0.012715,,0.045921
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age55_59,[55-59],5,0.049073,,0.271434
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age60_64,[60-64],5,0.038727,,0.358129
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age65_69,[65-69],13,0.07821,,1.130608
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age70_74,[70-74],12,0.048747,,1.152208
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age75_79,[75-79],30,0.092413,,3.56474
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age80_84,[80-84],27,0.072957,,4.625569
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age85_over,[85+],28,0.043159,,6.226359
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age20_24,[20-24],1,0.0777,,0.044926
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age25_29,[25-29],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age35_39,[35-39],2,0.088183,,0.082837
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age40_44,[40-44],2,0.053923,,0.072753
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age45_49,[45-49],3,0.052854,,0.116714
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age50_54,[50-54],3,0.038319,,0.13422
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age55_59,[55-59],4,0.037697,,0.207423
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age60_64,[60-64],6,0.045666,,0.411986
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age65_69,[65-69],3,0.018183,,0.255961
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age70_74,[70-74],12,0.050499,,1.149004
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age75_79,[75-79],12,0.037699,,1.409397
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age80_84,[80-84],26,0.068468,,4.264148
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age85_over,[85+],28,0.042536,,5.994087
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age01_04,[1-4],1,0.35461,,0.073301
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age25_29,[25-29],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age35_39,[35-39],3,0.137804,,0.126717
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age40_44,[40-44],4,0.103252,,0.145602
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age45_49,[45-49],2,0.034317,,0.076321
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age50_54,[50-54],10,0.125992,,0.434305
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age55_59,[55-59],6,0.055157,,0.298193
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age60_64,[60-64],10,0.075364,,0.659939
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age65_69,[65-69],4,0.02439,,0.33497
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age70_74,[70-74],15,0.064023,,1.437794
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age75_79,[75-79],14,0.044189,,1.618746
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age80_84,[80-84],32,0.08324,,5.113144
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age85_over,[85+],28,0.040921,,5.678407
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age05_09,[5-9],1,0.505051,,0.054692
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age15_19,[15-19],3,0.304569,,0.136207
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age25_29,[25-29],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age35_39,[35-39],1,0.047148,,0.043381
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age40_44,[40-44],3,0.0819,,0.110983
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age45_49,[45-49],5,0.085763,,0.187823
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age50_54,[50-54],5,0.061252,,0.21146
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age55_59,[55-59],4,0.036873,,0.193446
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age60_64,[60-64],4,0.029929,,0.248734
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age65_69,[65-69],7,0.042958,,0.56826
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age70_74,[70-74],14,0.062885,,1.335021
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age75_79,[75-79],19,0.061362,,2.174794
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age80_84,[80-84],22,0.05847,,3.410107
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age85_over,[85+],37,0.05329,,7.143698
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age25_29,[25-29],2,0.158103,,0.088903
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age35_39,[35-39],1,0.048356,,0.043818
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age40_44,[40-44],3,0.085276,,0.113727
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age45_49,[45-49],5,0.085368,,0.184064
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age50_54,[50-54],2,0.023841,,0.082448
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age55_59,[55-59],6,0.0536,,0.282376
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age60_64,[60-64],5,0.035532,,0.294542
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age65_69,[65-69],10,0.058682,,0.784077
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age70_74,[70-74],11,0.048959,,1.04429
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age75_79,[75-79],16,0.051439,,1.805912
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age80_84,[80-84],29,0.075898,,4.405173
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age85_over,[85+],37,0.050163,,6.705741
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age00,[0],1,0.052329,,0.261505
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age15_19,[15-19],1,0.111857,,0.044488
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age25_29,[25-29],1,0.078003,,0.043396
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age35_39,[35-39],2,0.096899,,0.087789
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age40_44,[40-44],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age45_49,[45-49],2,0.034465,,0.072339
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age50_54,[50-54],5,0.057904,,0.20093
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age55_59,[55-59],6,0.052938,,0.27577
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age60_64,[60-64],4,0.027386,,0.223283
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age65_69,[65-69],12,0.069436,,0.90232
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age70_74,[70-74],12,0.054069,,1.130072
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age75_79,[75-79],24,0.078092,,2.673433
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age80_84,[80-84],27,0.070174,,4.009409
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age85_over,[85+],34,0.044355,,5.8455
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age25_29,[25-29],1,0.076336,,0.042403
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age35_39,[35-39],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age40_44,[40-44],3,0.092908,,0.121077
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age45_49,[45-49],3,0.051317,,0.107431
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age50_54,[50-54],4,0.046296,,0.15684
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age55_59,[55-59],5,0.044739,,0.224453
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age60_64,[60-64],3,0.020296,,0.159492
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age65_69,[65-69],7,0.039861,,0.501861
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age70_74,[70-74],10,0.046531,,0.926883
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age75_79,[75-79],12,0.03976,,1.321727
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age80_84,[80-84],13,0.033929,,1.880439
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age85_over,[85+],23,0.029552,,3.789377
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age25_29,[25-29],1,0.078125,,0.041533
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age30_34,[30-34],1,0.069686,,0.043331
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age35_39,[35-39],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age40_44,[40-44],1,0.033201,,0.041325
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age45_49,[45-49],1,0.018265,,0.035841
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age50_54,[50-54],2,0.023663,,0.076624
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age55_59,[55-59],3,0.026464,,0.131306
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age60_64,[60-64],7,0.046422,,0.357039
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age65_69,[65-69],8,0.045295,,0.544609
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age70_74,[70-74],7,0.032707,,0.632284
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age75_79,[75-79],12,0.040791,,1.308097
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age80_84,[80-84],26,0.068439,,3.659503
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age85_over,[85+],21,0.025929,,3.337343
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age25_29,[25-29],3,0.243309,,0.122864
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age30_34,[30-34],3,0.210084,,0.127798
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age35_39,[35-39],1,0.056433,,0.043398
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age40_44,[40-44],2,0.069156,,0.084381
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age45_49,[45-49],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age50_54,[50-54],6,0.072551,,0.224447
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age55_59,[55-59],5,0.043948,,0.213409
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age60_64,[60-64],3,0.019689,,0.147684
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age65_69,[65-69],5,0.02758,,0.323245
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age70_74,[70-74],6,0.027436,,0.525555
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age75_79,[75-79],19,0.065853,,2.065662
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age80_84,[80-84],18,0.047608,,2.514637
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age85_over,[85+],27,0.032331,,4.046441
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age25_29,[25-29],2,0.149142,,0.081287
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age35_39,[35-39],2,0.110132,,0.086287
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age40_44,[40-44],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age45_49,[45-49],3,0.058651,,0.112213
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age50_54,[50-54],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age55_59,[55-59],3,0.02517,,0.124585
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age60_64,[60-64],6,0.038848,,0.287181
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age65_69,[65-69],5,0.026189,,0.305259
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age70_74,[70-74],6,0.02711,,0.506111
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age75_79,[75-79],15,0.053161,,1.620404
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age80_84,[80-84],20,0.052211,,2.775569
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age85_over,[85+],32,0.037213,,4.57086
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age25_29,[25-29],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age35_39,[35-39],2,0.109111,,0.085576
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age40_44,[40-44],3,0.108303,,0.12823
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age45_49,[45-49],4,0.081103,,0.15511
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age50_54,[50-54],3,0.036062,,0.107732
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age55_59,[55-59],8,0.066308,,0.322632
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age60_64,[60-64],4,0.02551,,0.187207
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age65_69,[65-69],8,0.040185,,0.460548
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age70_74,[70-74],12,0.051798,,0.969555
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age75_79,[75-79],9,0.031575,,0.959969
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age80_84,[80-84],12,0.031376,,1.652929
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age85_over,[85+],40,0.044642,,5.498516
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age25_29,[25-29],1,0.067613,,0.040655
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age30_34,[30-34],2,0.120409,,0.079732
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age35_39,[35-39],1,0.05005,,0.042305
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age40_44,[40-44],1,0.03574,,0.042654
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age45_49,[45-49],2,0.042653,,0.080359
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age50_54,[50-54],6,0.073002,,0.213931
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age55_59,[55-59],8,0.065041,,0.313388
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age60_64,[60-64],2,0.012307,,0.091623
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age65_69,[65-69],7,0.033928,,0.381891
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age70_74,[70-74],10,0.041533,,0.769835
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age75_79,[75-79],19,0.065869,,1.982986
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age80_84,[80-84],22,0.057041,,3.000857
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age85_over,[85+],25,0.026879,,3.338992
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age00,[0],1,0.058858,,0.2649
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age15_19,[15-19],1,0.136612,,0.048364
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age20_24,[20-24],2,0.146092,,0.080157
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age25_29,[25-29],1,0.055991,,0.038822
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age30_34,[30-34],1,0.048008,,0.038773
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age35_39,[35-39],1,0.042535,,0.039975
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age40_44,[40-44],1,0.035298,,0.042033
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age45_49,[45-49],2,0.044199,,0.08462
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age50_54,[50-54],3,0.038536,,0.112581
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age55_59,[55-59],5,0.040128,,0.183437
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age60_64,[60-64],7,0.040549,,0.296146
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age65_69,[65-69],12,0.054617,,0.594109
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age70_74,[70-74],9,0.032831,,0.585044
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age75_79,[75-79],10,0.032645,,0.946547
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age80_84,[80-84],7,0.018345,,0.928032
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age85_over,[85+],38,0.036887,,4.647369
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age15_19,[15-19],2,0.291121,,0.095174
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age25_29,[25-29],1,0.062696,,0.039808
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age35_39,[35-39],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age40_44,[40-44],2,0.069109,,0.084569
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age45_49,[45-49],3,0.06592,,0.126016
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age50_54,[50-54],1,0.012273,,0.036456
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age55_59,[55-59],4,0.032003,,0.149475
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age60_64,[60-64],8,0.04715,,0.348312
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age65_69,[65-69],8,0.035757,,0.404826
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age70_74,[70-74],12,0.047179,,0.828189
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age75_79,[75-79],7,0.023432,,0.68679
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age80_84,[80-84],18,0.047902,,2.408062
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age85_over,[85+],34,0.035103,,4.276783
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age25_29,[25-29],1,0.066578,,0.040534
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age30_34,[30-34],2,0.117096,,0.078507
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age35_39,[35-39],2,0.103306,,0.083335
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age40_44,[40-44],2,0.070696,,0.08503
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age45_49,[45-49],2,0.045517,,0.08263
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age50_54,[50-54],1,0.012176,,0.03586
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age55_59,[55-59],7,0.056557,,0.267095
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age60_64,[60-64],6,0.035868,,0.268266
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age65_69,[65-69],12,0.055824,,0.626102
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age70_74,[70-74],15,0.060756,,1.094028
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age75_79,[75-79],13,0.044431,,1.31493
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age80_84,[80-84],18,0.04632,,2.422741
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age85_over,[85+],41,0.042727,,5.364505
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age20_24,[20-24],3,0.196464,,0.131711
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age25_29,[25-29],2,0.090744,,0.07398
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age30_34,[30-34],5,0.171999,,0.183017
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age35_39,[35-39],1,0.029223,,0.037286
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age40_44,[40-44],6,0.146556,,0.234102
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age45_49,[45-49],1,0.019361,,0.041515
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age50_54,[50-54],8,0.10536,,0.338058
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age55_59,[55-59],2,0.015561,,0.075883
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age60_64,[60-64],7,0.034541,,0.262799
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age65_69,[65-69],17,0.062986,,0.748123
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age70_74,[70-74],13,0.038011,,0.688339
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age75_79,[75-79],16,0.038761,,1.162566
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age80_84,[80-84],16,0.035075,,1.839142
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age85_over,[85+],36,0.029328,,4.013118
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age00,[0],1,0.062972,,0.248101
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age15_19,[15-19],1,0.129199,,0.049899
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age20_24,[20-24],2,0.125945,,0.086243
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age25_29,[25-29],1,0.043011,,0.036632
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age30_34,[30-34],1,0.035125,,0.037466
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age35_39,[35-39],1,0.027809,,0.037388
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age40_44,[40-44],1,0.024826,,0.039875
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age45_49,[45-49],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age50_54,[50-54],4,0.050454,,0.167871
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age55_59,[55-59],7,0.052317,,0.258112
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age60_64,[60-64],6,0.030708,,0.2295
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age65_69,[65-69],10,0.039142,,0.453122
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age70_74,[70-74],12,0.036442,,0.649817
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age75_79,[75-79],13,0.034934,,1.004134
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age80_84,[80-84],16,0.038512,,1.906196
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age85_over,[85+],39,0.035089,,4.449901
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age20_24,[20-24],4,0.256082,,0.169243
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age25_29,[25-29],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age30_34,[30-34],1,0.0383,,0.038075
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age35_39,[35-39],4,0.13267,,0.150813
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age40_44,[40-44],2,0.05472,,0.081192
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age45_49,[45-49],6,0.122249,,0.251746
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age50_54,[50-54],3,0.03973,,0.123789
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age55_59,[55-59],4,0.03001,,0.144983
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age60_64,[60-64],10,0.052626,,0.390234
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age65_69,[65-69],4,0.016423,,0.186031
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age70_74,[70-74],8,0.025652,,0.446216
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age75_79,[75-79],16,0.045096,,1.305244
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age80_84,[80-84],14,0.033738,,1.718641
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age85_over,[85+],31,0.026955,,3.649107
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age15_19,[15-19],1,0.135501,,0.049848
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age25_29,[25-29],1,0.057078,,0.036995
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age35_39,[35-39],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age40_44,[40-44],4,0.133511,,0.164969
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age45_49,[45-49],2,0.046157,,0.084282
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age50_54,[50-54],3,0.041905,,0.120746
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age55_59,[55-59],3,0.024158,,0.108088
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age60_64,[60-64],3,0.017079,,0.119928
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age65_69,[65-69],6,0.026382,,0.286134
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age70_74,[70-74],6,0.020497,,0.349075
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age75_79,[75-79],12,0.036829,,1.036456
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age80_84,[80-84],10,0.025768,,1.272733
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age85_over,[85+],26,0.024353,,3.084168
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age10_14,[10-14],1,0.456621,,0.051553
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age20_24,[20-24],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age25_29,[25-29],1,0.052274,,0.037789
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age30_34,[30-34],0,0,,0
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age35_39,[35-39],4,0.160966,,0.156259
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age40_44,[40-44],2,0.065963,,0.083425
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age45_49,[45-49],3,0.06734,,0.12689
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age50_54,[50-54],1,0.013017,,0.038908
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age55_59,[55-59],3,0.023794,,0.108598
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age60_64,[60-64],6,0.033589,,0.24653
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age65_69,[65-69],6,0.026404,,0.291857
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age70_74,[70-74],10,0.035486,,0.612782
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age75_79,[75-79],9,0.027893,,0.816893
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age80_84,[80-84],12,0.030875,,1.566504
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age85_over,[85+],41,0.038379,,4.920699
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age00,[0],1,0.003567,,0.026277
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age01_04,[1-4],6,0.120506,,0.039037
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age10_14,[10-14],2,0.048077,,0.009743
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age15_19,[15-19],2,0.014746,,0.009891
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age20_24,[20-24],9,0.050721,,0.047458
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age25_29,[25-29],7,0.039591,,0.036117
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age30_34,[30-34],14,0.061484,,0.068258
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age35_39,[35-39],18,0.049806,,0.079272
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age40_44,[40-44],27,0.050319,,0.120311
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age45_49,[45-49],42,0.059295,,0.209034
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age50_54,[50-54],55,0.061446,,0.312757
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age55_59,[55-59],34,0.03185,,0.252427
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age60_64,[60-64],55,0.041016,,0.509003
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age65_69,[65-69],78,0.042919,,0.818164
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age70_74,[70-74],102,0.039311,,1.151574
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age75_79,[75-79],155,0.045899,,2.090128
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age80_84,[80-84],148,0.0408,,2.9927
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age85_over,[85+],145,0.022031,,3.420144
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age00,[0],2,0.007255,,0.049582
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age01_04,[1-4],1,0.019581,,0.006521
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age15_19,[15-19],6,0.044264,,0.029605
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age20_24,[20-24],6,0.032091,,0.030486
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age25_29,[25-29],11,0.060403,,0.058121
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age30_34,[30-34],16,0.068166,,0.077365
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age35_39,[35-39],19,0.051497,,0.08542
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age40_44,[40-44],23,0.041987,,0.100986
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age45_49,[45-49],40,0.054286,,0.192595
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age50_54,[50-54],49,0.051917,,0.266027
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age55_59,[55-59],69,0.063,,0.486254
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age60_64,[60-64],57,0.042343,,0.512661
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age65_69,[65-69],66,0.03703,,0.692354
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age70_74,[70-74],108,0.042734,,1.229995
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age75_79,[75-79],120,0.035963,,1.616173
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age80_84,[80-84],128,0.034759,,2.485913
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age85_over,[85+],153,0.022989,,3.474305
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age00,[0],1,0.003567,,0.024791
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age05_09,[5-9],1,0.033135,,0.005025
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age20_24,[20-24],9,0.046792,,0.044524
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age25_29,[25-29],8,0.044546,,0.042168
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age30_34,[30-34],11,0.047017,,0.05249
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age35_39,[35-39],19,0.053753,,0.086699
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age40_44,[40-44],36,0.064524,,0.15651
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age45_49,[45-49],39,0.051272,,0.183081
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age50_54,[50-54],50,0.05191,,0.266214
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age55_59,[55-59],47,0.040713,,0.313531
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age60_64,[60-64],68,0.049311,,0.585642
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age65_69,[65-69],87,0.049547,,0.908054
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age70_74,[70-74],87,0.035166,,1.000772
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age75_79,[75-79],131,0.03968,,1.765405
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age80_84,[80-84],138,0.036555,,2.596797
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age85_over,[85+],160,0.023492,,3.48351
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age01_04,[1-4],1,0.020141,,0.006343
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age10_14,[10-14],2,0.04931,,0.009437
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age15_19,[15-19],3,0.022067,,0.01465
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age20_24,[20-24],7,0.035047,,0.033771
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age25_29,[25-29],8,0.043836,,0.041736
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age30_34,[30-34],11,0.047722,,0.053128
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age35_39,[35-39],11,0.032301,,0.051383
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age40_44,[40-44],25,0.045121,,0.108873
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age45_49,[45-49],57,0.072915,,0.261934
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age50_54,[50-54],52,0.052734,,0.27306
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age55_59,[55-59],66,0.055305,,0.417879
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age60_64,[60-64],42,0.029334,,0.346944
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age65_69,[65-69],53,0.030317,,0.543808
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age70_74,[70-74],74,0.031004,,0.86137
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age75_79,[75-79],118,0.036287,,1.583342
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age80_84,[80-84],132,0.034936,,2.437187
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age85_over,[85+],129,0.018754,,2.736839
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age00,[0],1,0.00358,,0.024527
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age01_04,[1-4],1,0.020899,,0.006252
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age10_14,[10-14],2,0.050684,,0.009458
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age15_19,[15-19],1,0.007296,,0.004824
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age20_24,[20-24],6,0.030434,,0.028611
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age25_29,[25-29],6,0.031964,,0.030673
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age30_34,[30-34],10,0.045255,,0.04885
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age35_39,[35-39],24,0.075131,,0.114002
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age40_44,[40-44],29,0.054289,,0.125779
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age45_49,[45-49],37,0.04748,,0.16725
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age50_54,[50-54],47,0.047108,,0.241073
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age55_59,[55-59],43,0.035489,,0.260772
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age60_64,[60-64],44,0.030655,,0.3495
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age65_69,[65-69],63,0.036631,,0.632755
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age70_74,[70-74],93,0.040846,,1.093217
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age75_79,[75-79],92,0.029606,,1.241439
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age80_84,[80-84],102,0.02731,,1.834491
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age85_over,[85+],138,0.020543,,2.839722
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age00,[0],2,0.007032,,0.048702
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age01_04,[1-4],3,0.063078,,0.018522
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age10_14,[10-14],1,0.02656,,0.004794
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age15_19,[15-19],6,0.043786,,0.028518
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age20_24,[20-24],12,0.058448,,0.05704
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age25_29,[25-29],12,0.061325,,0.059804
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age30_34,[30-34],10,0.044729,,0.049808
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age35_39,[35-39],22,0.070019,,0.104752
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age40_44,[40-44],17,0.031856,,0.074364
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age45_49,[45-49],37,0.046609,,0.164558
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age50_54,[50-54],42,0.040328,,0.210024
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age55_59,[55-59],46,0.036085,,0.265073
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age60_64,[60-64],51,0.034501,,0.392251
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age65_69,[65-69],59,0.034255,,0.582345
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age70_74,[70-74],68,0.030073,,0.799213
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age75_79,[75-79],106,0.034428,,1.430149
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age80_84,[80-84],91,0.024025,,1.612746
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age85_over,[85+],134,0.019057,,2.629545
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age01_04,[1-4],4,0.086374,,0.024559
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age05_09,[5-9],1,0.036563,,0.005074
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age15_19,[15-19],2,0.014557,,0.009379
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age20_24,[20-24],2,0.009457,,0.009474
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age25_29,[25-29],7,0.033496,,0.033801
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age30_34,[30-34],11,0.049869,,0.055819
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age35_39,[35-39],8,0.025396,,0.037761
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age40_44,[40-44],23,0.044622,,0.102308
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age45_49,[45-49],48,0.060554,,0.210549
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age50_54,[50-54],50,0.047275,,0.244133
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age55_59,[55-59],49,0.036826,,0.26887
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age60_64,[60-64],54,0.036399,,0.404124
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age65_69,[65-69],61,0.035489,,0.58792
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age70_74,[70-74],61,0.027954,,0.714178
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age75_79,[75-79],78,0.0262,,1.056764
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age80_84,[80-84],106,0.028677,,1.870919
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age85_over,[85+],129,0.018376,,2.435425
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age00,[0],2,0.006863,,0.046486
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age05_09,[5-9],1,0.036887,,0.004986
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age20_24,[20-24],7,0.033833,,0.032992
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age25_29,[25-29],6,0.028657,,0.028547
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age30_34,[30-34],8,0.036955,,0.041338
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age35_39,[35-39],16,0.051795,,0.076217
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age40_44,[40-44],16,0.032829,,0.073199
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age45_49,[45-49],34,0.04373,,0.14921
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age50_54,[50-54],45,0.042072,,0.214669
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age55_59,[55-59],46,0.034723,,0.252622
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age60_64,[60-64],48,0.031036,,0.331981
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age65_69,[65-69],42,0.023999,,0.390832
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age70_74,[70-74],66,0.030802,,0.763624
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age75_79,[75-79],74,0.025602,,0.994722
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age80_84,[80-84],105,0.028873,,1.818428
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age85_over,[85+],105,0.014713,,1.994546
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age01_04,[1-4],2,0.042283,,0.011965
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age05_09,[5-9],1,0.039968,,0.004954
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age10_14,[10-14],2,0.063512,,0.009504
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age15_19,[15-19],3,0.02418,,0.013608
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age20_24,[20-24],4,0.020211,,0.018752
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age25_29,[25-29],10,0.048109,,0.049432
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age30_34,[30-34],4,0.018614,,0.0204
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age35_39,[35-39],7,0.02344,,0.03469
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age40_44,[40-44],19,0.040855,,0.087993
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age45_49,[45-49],31,0.040043,,0.136896
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age50_54,[50-54],51,0.046735,,0.238135
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age55_59,[55-59],45,0.033406,,0.239677
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age60_64,[60-64],54,0.033442,,0.356445
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age65_69,[65-69],65,0.035432,,0.580057
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age70_74,[70-74],55,0.025214,,0.619667
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age75_79,[75-79],82,0.028535,,1.130857
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age80_84,[80-84],84,0.022939,,1.484253
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age85_over,[85+],123,0.016517,,2.350771
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age00,[0],1,0.003808,,0.023367
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age15_19,[15-19],3,0.025967,,0.013538
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age20_24,[20-24],3,0.015842,,0.013928
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age25_29,[25-29],3,0.014518,,0.014619
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age30_34,[30-34],15,0.068378,,0.076108
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age35_39,[35-39],11,0.037212,,0.054813
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age40_44,[40-44],10,0.022114,,0.047083
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age45_49,[45-49],28,0.036612,,0.1239
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age50_54,[50-54],39,0.035059,,0.178682
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age55_59,[55-59],41,0.029752,,0.21314
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age60_64,[60-64],47,0.028368,,0.294611
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age65_69,[65-69],51,0.027443,,0.436947
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age70_74,[70-74],45,0.0209,,0.494261
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age75_79,[75-79],79,0.028723,,1.092223
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age80_84,[80-84],97,0.027496,,1.688571
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age85_over,[85+],103,0.014048,,1.929162
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age01_04,[1-4],1,0.023111,,0.005991
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age05_09,[5-9],2,0.085397,,0.009683
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age10_14,[10-14],1,0.033715,,0.004787
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age15_19,[15-19],2,0.018335,,0.00901
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age20_24,[20-24],4,0.021394,,0.018399
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age25_29,[25-29],10,0.049237,,0.048134
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age30_34,[30-34],4,0.018154,,0.020139
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age35_39,[35-39],6,0.021384,,0.03002
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age40_44,[40-44],21,0.049931,,0.100335
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age45_49,[45-49],30,0.040734,,0.133636
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age50_54,[50-54],40,0.036457,,0.180677
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age55_59,[55-59],50,0.035705,,0.253593
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age60_64,[60-64],61,0.035688,,0.366027
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age65_69,[65-69],62,0.032626,,0.505918
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age70_74,[70-74],54,0.024858,,0.576208
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age75_79,[75-79],58,0.021215,,0.797097
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age80_84,[80-84],83,0.023556,,1.43029
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age85_over,[85+],119,0.015545,,2.199966
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age00,[0],2,0.008339,,0.048692
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age01_04,[1-4],1,0.023552,,0.005968
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age05_09,[5-9],1,0.0408,,0.004829
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age10_14,[10-14],2,0.067797,,0.009604
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age20_24,[20-24],4,0.020972,,0.01811
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age25_29,[25-29],10,0.04861,,0.047355
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age30_34,[30-34],10,0.043148,,0.049848
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age35_39,[35-39],6,0.021836,,0.030108
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age40_44,[40-44],17,0.04008,,0.082275
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age45_49,[45-49],29,0.040461,,0.130673
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age50_54,[50-54],33,0.029577,,0.148056
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age55_59,[55-59],50,0.034657,,0.248365
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age60_64,[60-64],59,0.032953,,0.34257
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age65_69,[65-69],55,0.028427,,0.427592
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age70_74,[70-74],47,0.021212,,0.488342
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age75_79,[75-79],62,0.022771,,0.845016
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age80_84,[80-84],73,0.020624,,1.263462
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age85_over,[85+],111,0.014041,,1.952969
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age01_04,[1-4],2,0.047416,,0.011992
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age20_24,[20-24],3,0.0157,,0.013365
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age25_29,[25-29],4,0.019055,,0.01863
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age30_34,[30-34],3,0.012712,,0.014758
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age35_39,[35-39],6,0.02192,,0.030127
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age40_44,[40-44],9,0.021536,,0.043986
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age45_49,[45-49],26,0.037968,,0.118885
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age50_54,[50-54],41,0.036942,,0.183298
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age55_59,[55-59],51,0.034233,,0.248061
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age60_64,[60-64],56,0.031003,,0.316471
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age65_69,[65-69],48,0.023359,,0.353596
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age70_74,[70-74],46,0.020277,,0.464263
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age75_79,[75-79],59,0.021696,,0.790407
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age80_84,[80-84],70,0.020087,,1.222241
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age85_over,[85+],112,0.013908,,1.89376
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age00,[0],1,0.004266,,0.025668
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age01_04,[1-4],2,0.049164,,0.012106
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age15_19,[15-19],1,0.010549,,0.004573
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age20_24,[20-24],7,0.03683,,0.030739
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age25_29,[25-29],7,0.033245,,0.032067
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age30_34,[30-34],9,0.036875,,0.043595
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age35_39,[35-39],14,0.050322,,0.070173
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age40_44,[40-44],15,0.035926,,0.073839
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age45_49,[45-49],22,0.032918,,0.102274
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age50_54,[50-54],31,0.027955,,0.13858
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age55_59,[55-59],40,0.026147,,0.190767
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age60_64,[60-64],64,0.034567,,0.353421
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age65_69,[65-69],78,0.036362,,0.544139
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age70_74,[70-74],45,0.018756,,0.439286
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age75_79,[75-79],53,0.019112,,0.693191
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age80_84,[80-84],71,0.02042,,1.248978
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age85_over,[85+],129,0.015633,,2.119367
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age05_09,[5-9],2,0.084854,,0.009539
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age15_19,[15-19],1,0.010432,,0.004624
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age20_24,[20-24],1,0.005207,,0.004348
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age25_29,[25-29],6,0.027366,,0.027037
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age30_34,[30-34],3,0.01188,,0.014294
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age35_39,[35-39],8,0.02728,,0.039915
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age40_44,[40-44],11,0.026397,,0.054442
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age45_49,[45-49],13,0.019995,,0.061423
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age50_54,[50-54],32,0.028855,,0.143561
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age55_59,[55-59],44,0.027995,,0.206461
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age60_64,[60-64],55,0.0287,,0.297091
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age65_69,[65-69],52,0.023336,,0.34528
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age70_74,[70-74],44,0.017692,,0.412527
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age75_79,[75-79],60,0.021271,,0.76283
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age80_84,[80-84],66,0.019274,,1.16036
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age85_over,[85+],117,0.014161,,1.890816
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age00,[0],1,0.005107,,0.025058
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age01_04,[1-4],1,0.028337,,0.006375
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age15_19,[15-19],2,0.016289,,0.009415
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age20_24,[20-24],5,0.021242,,0.022463
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age25_29,[25-29],8,0.024468,,0.033564
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age30_34,[30-34],16,0.039225,,0.069407
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age35_39,[35-39],8,0.016639,,0.03701
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age40_44,[40-44],21,0.037228,,0.103476
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age45_49,[45-49],29,0.037943,,0.144611
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age50_54,[50-54],27,0.023537,,0.131209
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age55_59,[55-59],50,0.027288,,0.232102
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age60_64,[60-64],73,0.028369,,0.353183
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age65_69,[65-69],72,0.0235,,0.404062
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age70_74,[70-74],84,0.022819,,0.585168
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age75_79,[75-79],70,0.01758,,0.719592
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age80_84,[80-84],60,0.014155,,0.92862
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age85_over,[85+],97,0.009577,,1.450797
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age00,[0],1,0.00478,,0.025433
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age01_04,[1-4],1,0.027203,,0.006381
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age10_14,[10-14],1,0.031606,,0.004729
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age15_19,[15-19],2,0.019497,,0.009412
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age20_24,[20-24],4,0.020499,,0.017829
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age25_29,[25-29],9,0.033372,,0.037906
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age30_34,[30-34],4,0.012419,,0.017618
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age35_39,[35-39],9,0.023293,,0.0423
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age40_44,[40-44],17,0.038333,,0.084361
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age45_49,[45-49],16,0.025102,,0.079456
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age50_54,[50-54],25,0.025865,,0.119809
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age55_59,[55-59],51,0.032186,,0.235118
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age60_64,[60-64],51,0.023558,,0.249637
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age65_69,[65-69],58,0.022798,,0.333038
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age70_74,[70-74],69,0.022912,,0.501495
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age75_79,[75-79],60,0.01821,,0.648621
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age80_84,[80-84],73,0.020361,,1.168884
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age85_over,[85+],100,0.011445,,1.499219
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age01_04,[1-4],3,0.078329,,0.019173
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age05_09,[5-9],1,0.042918,,0.004858
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age15_19,[15-19],4,0.038536,,0.018811
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age20_24,[20-24],4,0.020229,,0.017648
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age25_29,[25-29],3,0.010925,,0.012749
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age30_34,[30-34],7,0.022305,,0.031303
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age35_39,[35-39],6,0.01595,,0.028635
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age40_44,[40-44],15,0.035077,,0.074723
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age45_49,[45-49],22,0.033912,,0.108628
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age50_54,[50-54],32,0.032012,,0.150884
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age55_59,[55-59],40,0.02485,,0.183721
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age60_64,[60-64],63,0.029457,,0.313257
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age65_69,[65-69],57,0.022687,,0.334564
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age70_74,[70-74],51,0.017434,,0.389508
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age75_79,[75-79],78,0.024243,,0.878961
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age80_84,[80-84],73,0.020653,,1.203706
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age85_over,[85+],105,0.011928,,1.582043
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age00,[0],1,0.004477,,0.0263
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age05_09,[5-9],1,0.042481,,0.004799
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age15_19,[15-19],2,0.018372,,0.009394
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age20_24,[20-24],1,0.004731,,0.004366
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age25_29,[25-29],1,0.003537,,0.004305
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age30_34,[30-34],7,0.021917,,0.031778
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age35_39,[35-39],5,0.01355,,0.024204
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age40_44,[40-44],9,0.020981,,0.044878
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age45_49,[45-49],19,0.02892,,0.093103
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age50_54,[50-54],21,0.020106,,0.097365
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age55_59,[55-59],33,0.020358,,0.15151
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age60_64,[60-64],62,0.029537,,0.314159
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age65_69,[65-69],57,0.022976,,0.34219
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age70_74,[70-74],73,0.025747,,0.588691
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age75_79,[75-79],61,0.019838,,0.710744
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age80_84,[80-84],76,0.021698,,1.283736
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age85_over,[85+],105,0.011959,,1.599288
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age00,[0],1,0.004318,,0.026565
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age15_19,[15-19],1,0.009249,,0.004687
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age20_24,[20-24],3,0.013785,,0.013008
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age25_29,[25-29],3,0.011089,,0.013105
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age30_34,[30-34],7,0.022904,,0.032274
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age35_39,[35-39],20,0.056694,,0.098025
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age40_44,[40-44],14,0.03293,,0.06974
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age45_49,[45-49],18,0.027445,,0.087331
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age50_54,[50-54],39,0.036134,,0.178167
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age55_59,[55-59],46,0.028369,,0.211862
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age60_64,[60-64],55,0.026921,,0.28445
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age65_69,[65-69],54,0.021893,,0.332852
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age70_74,[70-74],62,0.023359,,0.527675
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age75_79,[75-79],64,0.021703,,0.767508
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age80_84,[80-84],47,0.013742,,0.808048
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age85_over,[85+],120,0.014044,,1.865397
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age00,[0],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age01_04,[1-4],1,0.025221,,0.006183
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age10_14,[10-14],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age15_19,[15-19],1,0.009817,,0.004671
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age20_24,[20-24],4,0.019697,,0.017325
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age25_29,[25-29],9,0.03766,,0.039907
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age30_34,[30-34],3,0.010862,,0.014056
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age35_39,[35-39],9,0.028647,,0.044561
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age40_44,[40-44],11,0.026397,,0.054664
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age45_49,[45-49],19,0.029514,,0.091062
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age50_54,[50-54],38,0.034509,,0.171701
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age55_59,[55-59],43,0.026944,,0.199417
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age60_64,[60-64],50,0.025228,,0.264059
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age65_69,[65-69],50,0.021233,,0.318423
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age70_74,[70-74],50,0.019265,,0.446832
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age75_79,[75-79],60,0.020661,,0.739126
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age80_84,[80-84],56,0.016131,,0.9732
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age85_over,[85+],102,0.011865,,1.639428
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age00,[0],2,0.01004,,0.049488
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age01_04,[1-4],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age05_09,[5-9],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age10_14,[10-14],3,0.084057,,0.014267
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age15_19,[15-19],0,0,,0
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age20_24,[20-24],3,0.012048,,0.013559
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age25_29,[25-29],5,0.014207,,0.021025
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age30_34,[30-34],10,0.021241,,0.042781
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age35_39,[35-39],20,0.035459,,0.091129
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age40_44,[40-44],21,0.030641,,0.102519
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age45_49,[45-49],25,0.029021,,0.125061
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age50_54,[50-54],27,0.020786,,0.132896
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age55_59,[55-59],60,0.030363,,0.281739
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age60_64,[60-64],57,0.020316,,0.274044
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age65_69,[65-69],74,0.022358,,0.4071
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age70_74,[70-74],95,0.024156,,0.641588
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age75_79,[75-79],71,0.017365,,0.695545
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age80_84,[80-84],58,0.013784,,0.873951
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age85_over,[85+],87,0.009248,,1.262471
+OA,Oceania,AUS,Australia,2000,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age35_39,[35-39],1,0.059952,,0.066456
+OA,Oceania,AUS,Australia,2000,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2000,All,Age50_54,[50-54],4,0.102328,,0.318072
+OA,Oceania,AUS,Australia,2000,All,Age55_59,[55-59],3,0.060877,,0.311306
+OA,Oceania,AUS,Australia,2000,All,Age60_64,[60-64],1,0.015511,,0.125368
+OA,Oceania,AUS,Australia,2000,All,Age65_69,[65-69],4,0.042644,,0.590741
+OA,Oceania,AUS,Australia,2000,All,Age70_74,[70-74],12,0.08113,,1.895046
+OA,Oceania,AUS,Australia,2000,All,Age75_79,[75-79],10,0.051005,,1.971088
+OA,Oceania,AUS,Australia,2000,All,Age80_84,[80-84],12,0.058642,,3.883885
+OA,Oceania,AUS,Australia,2000,All,Age85_over,[85+],7,0.019137,,2.770423
+OA,Oceania,AUS,Australia,2001,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2001,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2001,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2001,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2001,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2001,All,Age20_24,[20-24],2,0.225989,,0.153561
+OA,Oceania,AUS,Australia,2001,All,Age25_29,[25-29],1,0.102145,,0.071069
+OA,Oceania,AUS,Australia,2001,All,Age30_34,[30-34],1,0.081633,,0.068184
+OA,Oceania,AUS,Australia,2001,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2001,All,Age40_44,[40-44],1,0.049432,,0.067602
+OA,Oceania,AUS,Australia,2001,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2001,All,Age50_54,[50-54],3,0.076825,,0.230631
+OA,Oceania,AUS,Australia,2001,All,Age55_59,[55-59],7,0.13624,,0.693894
+OA,Oceania,AUS,Australia,2001,All,Age60_64,[60-64],4,0.060744,,0.486604
+OA,Oceania,AUS,Australia,2001,All,Age65_69,[65-69],6,0.066489,,0.879104
+OA,Oceania,AUS,Australia,2001,All,Age70_74,[70-74],8,0.055525,,1.253172
+OA,Oceania,AUS,Australia,2001,All,Age75_79,[75-79],16,0.082275,,3.080738
+OA,Oceania,AUS,Australia,2001,All,Age80_84,[80-84],16,0.075754,,4.84775
+OA,Oceania,AUS,Australia,2001,All,Age85_over,[85+],21,0.056491,,7.917507
+OA,Oceania,AUS,Australia,2002,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age30_34,[30-34],1,0.082781,,0.066631
+OA,Oceania,AUS,Australia,2002,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age40_44,[40-44],1,0.049776,,0.066141
+OA,Oceania,AUS,Australia,2002,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2002,All,Age50_54,[50-54],3,0.076161,,0.230573
+OA,Oceania,AUS,Australia,2002,All,Age55_59,[55-59],2,0.0387,,0.184194
+OA,Oceania,AUS,Australia,2002,All,Age60_64,[60-64],4,0.059198,,0.472082
+OA,Oceania,AUS,Australia,2002,All,Age65_69,[65-69],7,0.077288,,1.000071
+OA,Oceania,AUS,Australia,2002,All,Age70_74,[70-74],10,0.071083,,1.569213
+OA,Oceania,AUS,Australia,2002,All,Age75_79,[75-79],8,0.040556,,1.51438
+OA,Oceania,AUS,Australia,2002,All,Age80_84,[80-84],14,0.062439,,4.015949
+OA,Oceania,AUS,Australia,2002,All,Age85_over,[85+],17,0.042392,,6.140376
+OA,Oceania,AUS,Australia,2003,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age01_04,[1-4],1,0.369004,,0.098208
+OA,Oceania,AUS,Australia,2003,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age45_49,[45-49],3,0.104749,,0.213919
+OA,Oceania,AUS,Australia,2003,All,Age50_54,[50-54],1,0.027594,,0.076245
+OA,Oceania,AUS,Australia,2003,All,Age55_59,[55-59],2,0.037658,,0.173183
+OA,Oceania,AUS,Australia,2003,All,Age60_64,[60-64],0,0,,0
+OA,Oceania,AUS,Australia,2003,All,Age65_69,[65-69],2,0.022185,,0.277217
+OA,Oceania,AUS,Australia,2003,All,Age70_74,[70-74],6,0.045269,,0.948852
+OA,Oceania,AUS,Australia,2003,All,Age75_79,[75-79],16,0.082837,,2.967932
+OA,Oceania,AUS,Australia,2003,All,Age80_84,[80-84],14,0.062005,,3.814059
+OA,Oceania,AUS,Australia,2003,All,Age85_over,[85+],8,0.019852,,2.792672
+OA,Oceania,AUS,Australia,2004,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age30_34,[30-34],1,0.08569,,0.065552
+OA,Oceania,AUS,Australia,2004,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age40_44,[40-44],2,0.0998,,0.129439
+OA,Oceania,AUS,Australia,2004,All,Age45_49,[45-49],2,0.071149,,0.139088
+OA,Oceania,AUS,Australia,2004,All,Age50_54,[50-54],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age55_59,[55-59],0,0,,0
+OA,Oceania,AUS,Australia,2004,All,Age60_64,[60-64],2,0.029878,,0.221664
+OA,Oceania,AUS,Australia,2004,All,Age65_69,[65-69],4,0.044703,,0.541946
+OA,Oceania,AUS,Australia,2004,All,Age70_74,[70-74],6,0.047148,,0.959319
+OA,Oceania,AUS,Australia,2004,All,Age75_79,[75-79],10,0.051891,,1.838624
+OA,Oceania,AUS,Australia,2004,All,Age80_84,[80-84],19,0.080717,,4.962948
+OA,Oceania,AUS,Australia,2004,All,Age85_over,[85+],17,0.041804,,5.885897
+OA,Oceania,AUS,Australia,2006,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2006,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2006,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2006,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2006,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2006,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2006,All,Age25_29,[25-29],2,0.257069,,0.145819
+OA,Oceania,AUS,Australia,2006,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2006,All,Age35_39,[35-39],1,0.07278,,0.067443
+OA,Oceania,AUS,Australia,2006,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2006,All,Age45_49,[45-49],2,0.069396,,0.136496
+OA,Oceania,AUS,Australia,2006,All,Age50_54,[50-54],1,0.026448,,0.074711
+OA,Oceania,AUS,Australia,2006,All,Age55_59,[55-59],2,0.036941,,0.161472
+OA,Oceania,AUS,Australia,2006,All,Age60_64,[60-64],4,0.058832,,0.423483
+OA,Oceania,AUS,Australia,2006,All,Age65_69,[65-69],2,0.023103,,0.262357
+OA,Oceania,AUS,Australia,2006,All,Age70_74,[70-74],9,0.076825,,1.439544
+OA,Oceania,AUS,Australia,2006,All,Age75_79,[75-79],11,0.060847,,2.003034
+OA,Oceania,AUS,Australia,2006,All,Age80_84,[80-84],13,0.054446,,3.285334
+OA,Oceania,AUS,Australia,2006,All,Age85_over,[85+],11,0.024851,,3.605127
+OA,Oceania,AUS,Australia,2007,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age25_29,[25-29],1,0.114286,,0.068691
+OA,Oceania,AUS,Australia,2007,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age45_49,[45-49],2,0.068658,,0.131237
+OA,Oceania,AUS,Australia,2007,All,Age50_54,[50-54],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age55_59,[55-59],0,0,,0
+OA,Oceania,AUS,Australia,2007,All,Age60_64,[60-64],4,0.054422,,0.375694
+OA,Oceania,AUS,Australia,2007,All,Age65_69,[65-69],7,0.077434,,0.866616
+OA,Oceania,AUS,Australia,2007,All,Age70_74,[70-74],6,0.051212,,0.927863
+OA,Oceania,AUS,Australia,2007,All,Age75_79,[75-79],5,0.027528,,0.904236
+OA,Oceania,AUS,Australia,2007,All,Age80_84,[80-84],14,0.058024,,3.372763
+OA,Oceania,AUS,Australia,2007,All,Age85_over,[85+],13,0.02777,,3.803038
+OA,Oceania,AUS,Australia,2008,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2008,All,Age01_04,[1-4],1,0.429185,,0.091754
+OA,Oceania,AUS,Australia,2008,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2008,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2008,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2008,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2008,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2008,All,Age30_34,[30-34],1,0.093633,,0.067553
+OA,Oceania,AUS,Australia,2008,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2008,All,Age40_44,[40-44],1,0.051867,,0.065903
+OA,Oceania,AUS,Australia,2008,All,Age45_49,[45-49],4,0.136659,,0.257622
+OA,Oceania,AUS,Australia,2008,All,Age50_54,[50-54],1,0.025006,,0.070938
+OA,Oceania,AUS,Australia,2008,All,Age55_59,[55-59],5,0.092507,,0.38875
+OA,Oceania,AUS,Australia,2008,All,Age60_64,[60-64],4,0.05291,,0.354749
+OA,Oceania,AUS,Australia,2008,All,Age65_69,[65-69],1,0.01088,,0.120154
+OA,Oceania,AUS,Australia,2008,All,Age70_74,[70-74],7,0.057363,,1.054352
+OA,Oceania,AUS,Australia,2008,All,Age75_79,[75-79],11,0.060473,,1.993801
+OA,Oceania,AUS,Australia,2008,All,Age80_84,[80-84],15,0.059517,,3.533594
+OA,Oceania,AUS,Australia,2008,All,Age85_over,[85+],13,0.025535,,3.626564
+OA,Oceania,AUS,Australia,2009,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age15_19,[15-19],1,0.186916,,0.066718
+OA,Oceania,AUS,Australia,2009,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age40_44,[40-44],3,0.154083,,0.1964
+OA,Oceania,AUS,Australia,2009,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2009,All,Age50_54,[50-54],1,0.024102,,0.069516
+OA,Oceania,AUS,Australia,2009,All,Age55_59,[55-59],4,0.073611,,0.306242
+OA,Oceania,AUS,Australia,2009,All,Age60_64,[60-64],1,0.013151,,0.08552
+OA,Oceania,AUS,Australia,2009,All,Age65_69,[65-69],2,0.021879,,0.230289
+OA,Oceania,AUS,Australia,2009,All,Age70_74,[70-74],5,0.041356,,0.728938
+OA,Oceania,AUS,Australia,2009,All,Age75_79,[75-79],10,0.059471,,1.81168
+OA,Oceania,AUS,Australia,2009,All,Age80_84,[80-84],12,0.049654,,2.778061
+OA,Oceania,AUS,Australia,2009,All,Age85_over,[85+],18,0.036066,,4.799079
+OA,Oceania,AUS,Australia,2010,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2010,All,Age01_04,[1-4],1,0.442478,,0.086162
+OA,Oceania,AUS,Australia,2010,All,Age05_09,[5-9],1,0.70922,,0.073241
+OA,Oceania,AUS,Australia,2010,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2010,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2010,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2010,All,Age25_29,[25-29],1,0.119474,,0.060334
+OA,Oceania,AUS,Australia,2010,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2010,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2010,All,Age40_44,[40-44],1,0.051467,,0.064532
+OA,Oceania,AUS,Australia,2010,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2010,All,Age50_54,[50-54],2,0.049044,,0.136249
+OA,Oceania,AUS,Australia,2010,All,Age55_59,[55-59],2,0.03663,,0.15092
+OA,Oceania,AUS,Australia,2010,All,Age60_64,[60-64],3,0.039578,,0.24769
+OA,Oceania,AUS,Australia,2010,All,Age65_69,[65-69],6,0.064109,,0.660664
+OA,Oceania,AUS,Australia,2010,All,Age70_74,[70-74],4,0.032318,,0.563339
+OA,Oceania,AUS,Australia,2010,All,Age75_79,[75-79],6,0.036648,,1.084869
+OA,Oceania,AUS,Australia,2010,All,Age80_84,[80-84],12,0.049436,,2.727837
+OA,Oceania,AUS,Australia,2010,All,Age85_over,[85+],16,0.030328,,4.056394
+OA,Oceania,AUS,Australia,2011,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2011,All,Age01_04,[1-4],1,0.49505,,0.085637
+OA,Oceania,AUS,Australia,2011,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2011,All,Age10_14,[10-14],1,0.757576,,0.072053
+OA,Oceania,AUS,Australia,2011,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2011,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2011,All,Age25_29,[25-29],1,0.114811,,0.060307
+OA,Oceania,AUS,Australia,2011,All,Age30_34,[30-34],3,0.292113,,0.195292
+OA,Oceania,AUS,Australia,2011,All,Age35_39,[35-39],1,0.071685,,0.063536
+OA,Oceania,AUS,Australia,2011,All,Age40_44,[40-44],1,0.052743,,0.063002
+OA,Oceania,AUS,Australia,2011,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2011,All,Age50_54,[50-54],1,0.024343,,0.066932
+OA,Oceania,AUS,Australia,2011,All,Age55_59,[55-59],2,0.036062,,0.149701
+OA,Oceania,AUS,Australia,2011,All,Age60_64,[60-64],1,0.012715,,0.081566
+OA,Oceania,AUS,Australia,2011,All,Age65_69,[65-69],1,0.01049,,0.104793
+OA,Oceania,AUS,Australia,2011,All,Age70_74,[70-74],1,0.008004,,0.137425
+OA,Oceania,AUS,Australia,2011,All,Age75_79,[75-79],3,0.018184,,0.537306
+OA,Oceania,AUS,Australia,2011,All,Age80_84,[80-84],16,0.065784,,3.603344
+OA,Oceania,AUS,Australia,2011,All,Age85_over,[85+],22,0.039492,,5.450847
+OA,Oceania,AUS,Australia,2012,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age15_19,[15-19],1,0.2,,0.068508
+OA,Oceania,AUS,Australia,2012,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age35_39,[35-39],1,0.076805,,0.064253
+OA,Oceania,AUS,Australia,2012,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age50_54,[50-54],4,0.099305,,0.262517
+OA,Oceania,AUS,Australia,2012,All,Age55_59,[55-59],0,0,,0
+OA,Oceania,AUS,Australia,2012,All,Age60_64,[60-64],1,0.013196,,0.081699
+OA,Oceania,AUS,Australia,2012,All,Age65_69,[65-69],3,0.030312,,0.293077
+OA,Oceania,AUS,Australia,2012,All,Age70_74,[70-74],4,0.032664,,0.529503
+OA,Oceania,AUS,Australia,2012,All,Age75_79,[75-79],6,0.036496,,1.047292
+OA,Oceania,AUS,Australia,2012,All,Age80_84,[80-84],5,0.020913,,1.121602
+OA,Oceania,AUS,Australia,2012,All,Age85_over,[85+],10,0.017527,,2.37944
+OA,Oceania,AUS,Australia,2013,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2013,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2013,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2013,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2013,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2013,All,Age20_24,[20-24],2,0.295858,,0.122126
+OA,Oceania,AUS,Australia,2013,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2013,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2013,All,Age35_39,[35-39],1,0.07837,,0.064428
+OA,Oceania,AUS,Australia,2013,All,Age40_44,[40-44],2,0.102354,,0.120371
+OA,Oceania,AUS,Australia,2013,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2013,All,Age50_54,[50-54],2,0.048757,,0.129314
+OA,Oceania,AUS,Australia,2013,All,Age55_59,[55-59],2,0.035804,,0.143495
+OA,Oceania,AUS,Australia,2013,All,Age60_64,[60-64],1,0.013142,,0.080579
+OA,Oceania,AUS,Australia,2013,All,Age65_69,[65-69],6,0.056743,,0.554948
+OA,Oceania,AUS,Australia,2013,All,Age70_74,[70-74],4,0.032116,,0.511512
+OA,Oceania,AUS,Australia,2013,All,Age75_79,[75-79],7,0.04285,,1.186049
+OA,Oceania,AUS,Australia,2013,All,Age80_84,[80-84],4,0.017231,,0.894238
+OA,Oceania,AUS,Australia,2013,All,Age85_over,[85+],20,0.034943,,4.573007
+OA,Oceania,AUS,Australia,2014,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age50_54,[50-54],3,0.069735,,0.191998
+OA,Oceania,AUS,Australia,2014,All,Age55_59,[55-59],0,0,,0
+OA,Oceania,AUS,Australia,2014,All,Age60_64,[60-64],1,0.012571,,0.079076
+OA,Oceania,AUS,Australia,2014,All,Age65_69,[65-69],3,0.027714,,0.268176
+OA,Oceania,AUS,Australia,2014,All,Age70_74,[70-74],4,0.030791,,0.491054
+OA,Oceania,AUS,Australia,2014,All,Age75_79,[75-79],7,0.041206,,1.149835
+OA,Oceania,AUS,Australia,2014,All,Age80_84,[80-84],4,0.017235,,0.892746
+OA,Oceania,AUS,Australia,2014,All,Age85_over,[85+],24,0.039539,,5.290725
+OA,Oceania,AUS,Australia,2017,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age05_09,[5-9],1,0.813008,,0.06297
+OA,Oceania,AUS,Australia,2017,All,Age10_14,[10-14],1,0.714286,,0.067865
+OA,Oceania,AUS,Australia,2017,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2017,All,Age50_54,[50-54],1,0.024863,,0.065025
+OA,Oceania,AUS,Australia,2017,All,Age55_59,[55-59],1,0.017013,,0.066318
+OA,Oceania,AUS,Australia,2017,All,Age60_64,[60-64],1,0.012804,,0.075055
+OA,Oceania,AUS,Australia,2017,All,Age65_69,[65-69],4,0.036321,,0.334695
+OA,Oceania,AUS,Australia,2017,All,Age70_74,[70-74],6,0.041268,,0.626638
+OA,Oceania,AUS,Australia,2017,All,Age75_79,[75-79],8,0.044393,,1.183474
+OA,Oceania,AUS,Australia,2017,All,Age80_84,[80-84],5,0.021707,,1.06725
+OA,Oceania,AUS,Australia,2017,All,Age85_over,[85+],21,0.031924,,4.280639
+OA,Oceania,AUS,Australia,2016,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2016,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2016,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2016,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2016,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2016,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2016,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2016,All,Age30_34,[30-34],3,0.264317,,0.167216
+OA,Oceania,AUS,Australia,2016,All,Age35_39,[35-39],2,0.145773,,0.12442
+OA,Oceania,AUS,Australia,2016,All,Age40_44,[40-44],1,0.048309,,0.061471
+OA,Oceania,AUS,Australia,2016,All,Age45_49,[45-49],1,0.03499,,0.062308
+OA,Oceania,AUS,Australia,2016,All,Age50_54,[50-54],0,0,,0
+OA,Oceania,AUS,Australia,2016,All,Age55_59,[55-59],4,0.06725,,0.271018
+OA,Oceania,AUS,Australia,2016,All,Age60_64,[60-64],3,0.03827,,0.229904
+OA,Oceania,AUS,Australia,2016,All,Age65_69,[65-69],1,0.009121,,0.083817
+OA,Oceania,AUS,Australia,2016,All,Age70_74,[70-74],3,0.021813,,0.337004
+OA,Oceania,AUS,Australia,2016,All,Age75_79,[75-79],3,0.017024,,0.460688
+OA,Oceania,AUS,Australia,2016,All,Age80_84,[80-84],9,0.03885,,1.977574
+OA,Oceania,AUS,Australia,2016,All,Age85_over,[85+],19,0.029601,,3.936364
+OA,Oceania,AUS,Australia,2015,All,Age00,[0],1,0.100908,,0.324206
+OA,Oceania,AUS,Australia,2015,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2015,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2015,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2015,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2015,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2015,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2015,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2015,All,Age35_39,[35-39],1,0.070274,,0.063574
+OA,Oceania,AUS,Australia,2015,All,Age40_44,[40-44],1,0.046773,,0.060415
+OA,Oceania,AUS,Australia,2015,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2015,All,Age50_54,[50-54],2,0.045652,,0.128211
+OA,Oceania,AUS,Australia,2015,All,Age55_59,[55-59],2,0.033456,,0.138348
+OA,Oceania,AUS,Australia,2015,All,Age60_64,[60-64],5,0.063107,,0.389965
+OA,Oceania,AUS,Australia,2015,All,Age65_69,[65-69],1,0.009066,,0.086477
+OA,Oceania,AUS,Australia,2015,All,Age70_74,[70-74],4,0.029669,,0.470416
+OA,Oceania,AUS,Australia,2015,All,Age75_79,[75-79],4,0.022709,,0.634385
+OA,Oceania,AUS,Australia,2015,All,Age80_84,[80-84],10,0.04281,,2.23146
+OA,Oceania,AUS,Australia,2015,All,Age85_over,[85+],20,0.031155,,4.264892
+OA,Oceania,AUS,Australia,2022,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age25_29,[25-29],1,0.116144,,0.054796
+OA,Oceania,AUS,Australia,2022,All,Age30_34,[30-34],1,0.08489,,0.052236
+OA,Oceania,AUS,Australia,2022,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age50_54,[50-54],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age55_59,[55-59],3,0.048224,,0.195621
+OA,Oceania,AUS,Australia,2022,All,Age60_64,[60-64],3,0.032577,,0.201106
+OA,Oceania,AUS,Australia,2022,All,Age65_69,[65-69],0,0,,0
+OA,Oceania,AUS,Australia,2022,All,Age70_74,[70-74],3,0.017342,,0.2623
+OA,Oceania,AUS,Australia,2022,All,Age75_79,[75-79],6,0.02591,,0.686292
+OA,Oceania,AUS,Australia,2022,All,Age80_84,[80-84],5,0.017731,,0.883285
+OA,Oceania,AUS,Australia,2022,All,Age85_over,[85+],15,0.019002,,2.732295
+OA,Oceania,AUS,Australia,2021,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age20_24,[20-24],3,0.42796,,0.184854
+OA,Oceania,AUS,Australia,2021,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2021,All,Age45_49,[45-49],1,0.035411,,0.060607
+OA,Oceania,AUS,Australia,2021,All,Age50_54,[50-54],1,0.024091,,0.062045
+OA,Oceania,AUS,Australia,2021,All,Age55_59,[55-59],1,0.016453,,0.064483
+OA,Oceania,AUS,Australia,2021,All,Age60_64,[60-64],3,0.036162,,0.204714
+OA,Oceania,AUS,Australia,2021,All,Age65_69,[65-69],5,0.044504,,0.39048
+OA,Oceania,AUS,Australia,2021,All,Age70_74,[70-74],4,0.024559,,0.348788
+OA,Oceania,AUS,Australia,2021,All,Age75_79,[75-79],6,0.030391,,0.743245
+OA,Oceania,AUS,Australia,2021,All,Age80_84,[80-84],5,0.019772,,0.916728
+OA,Oceania,AUS,Australia,2021,All,Age85_over,[85+],19,0.027234,,3.556534
+OA,Oceania,AUS,Australia,2020,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age25_29,[25-29],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age40_44,[40-44],2,0.110375,,0.123368
+OA,Oceania,AUS,Australia,2020,All,Age45_49,[45-49],1,0.03453,,0.059423
+OA,Oceania,AUS,Australia,2020,All,Age50_54,[50-54],0,0,,0
+OA,Oceania,AUS,Australia,2020,All,Age55_59,[55-59],1,0.016966,,0.063812
+OA,Oceania,AUS,Australia,2020,All,Age60_64,[60-64],3,0.03663,,0.208402
+OA,Oceania,AUS,Australia,2020,All,Age65_69,[65-69],1,0.009432,,0.07919
+OA,Oceania,AUS,Australia,2020,All,Age70_74,[70-74],1,0.006442,,0.090005
+OA,Oceania,AUS,Australia,2020,All,Age75_79,[75-79],4,0.021636,,0.520822
+OA,Oceania,AUS,Australia,2020,All,Age80_84,[80-84],6,0.025627,,1.139093
+OA,Oceania,AUS,Australia,2020,All,Age85_over,[85+],14,0.021717,,2.696378
+OA,Oceania,AUS,Australia,2019,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age25_29,[25-29],2,0.2079,,0.105695
+OA,Oceania,AUS,Australia,2019,All,Age30_34,[30-34],1,0.089286,,0.053012
+OA,Oceania,AUS,Australia,2019,All,Age35_39,[35-39],1,0.06725,,0.056001
+OA,Oceania,AUS,Australia,2019,All,Age40_44,[40-44],1,0.049677,,0.062535
+OA,Oceania,AUS,Australia,2019,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age50_54,[50-54],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age55_59,[55-59],5,0.079428,,0.321811
+OA,Oceania,AUS,Australia,2019,All,Age60_64,[60-64],3,0.034368,,0.215215
+OA,Oceania,AUS,Australia,2019,All,Age65_69,[65-69],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age70_74,[70-74],0,0,,0
+OA,Oceania,AUS,Australia,2019,All,Age75_79,[75-79],5,0.026385,,0.685512
+OA,Oceania,AUS,Australia,2019,All,Age80_84,[80-84],9,0.03719,,1.785711
+OA,Oceania,AUS,Australia,2019,All,Age85_over,[85+],18,0.026414,,3.545198
+OA,Oceania,AUS,Australia,2018,All,Age00,[0],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age01_04,[1-4],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age05_09,[5-9],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age10_14,[10-14],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age15_19,[15-19],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age20_24,[20-24],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age25_29,[25-29],2,0.246609,,0.107003
+OA,Oceania,AUS,Australia,2018,All,Age30_34,[30-34],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age35_39,[35-39],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age40_44,[40-44],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age45_49,[45-49],0,0,,0
+OA,Oceania,AUS,Australia,2018,All,Age50_54,[50-54],1,0.02505,,0.065275
+OA,Oceania,AUS,Australia,2018,All,Age55_59,[55-59],3,0.04962,,0.195632
+OA,Oceania,AUS,Australia,2018,All,Age60_64,[60-64],6,0.074221,,0.441303
+OA,Oceania,AUS,Australia,2018,All,Age65_69,[65-69],3,0.027822,,0.247964
+OA,Oceania,AUS,Australia,2018,All,Age70_74,[70-74],6,0.040431,,0.589584
+OA,Oceania,AUS,Australia,2018,All,Age75_79,[75-79],10,0.056322,,1.433994
+OA,Oceania,AUS,Australia,2018,All,Age80_84,[80-84],7,0.030851,,1.444756
+OA,Oceania,AUS,Australia,2018,All,Age85_over,[85+],17,0.026619,,3.408473
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age01_04,[1-4],1,0.152207,,0.034661
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age05_09,[5-9],1,0.232558,,0.025947
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age10_14,[10-14],1,0.189036,,0.025762
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age20_24,[20-24],2,0.098717,,0.056266
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age25_29,[25-29],6,0.221976,,0.144951
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age30_34,[30-34],6,0.164159,,0.126862
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age35_39,[35-39],10,0.19976,,0.207369
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age40_44,[40-44],8,0.121507,,0.192088
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age45_49,[45-49],11,0.114333,,0.291321
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age50_54,[50-54],15,0.091979,,0.36926
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age55_59,[55-59],21,0.097884,,0.6452
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age60_64,[60-64],33,0.104315,,1.142894
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age65_69,[65-69],59,0.125351,,2.280878
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age70_74,[70-74],70,0.098005,,2.996593
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age75_79,[75-79],101,0.100531,,5.063553
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age80_84,[80-84],82,0.082562,,6.584775
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age85_over,[85+],73,0.039632,,6.258611
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age05_09,[5-9],1,0.223214,,0.026805
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age15_19,[15-19],1,0.064392,,0.027225
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age20_24,[20-24],5,0.240964,,0.140481
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age25_29,[25-29],11,0.426687,,0.280161
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age30_34,[30-34],9,0.238347,,0.196987
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age35_39,[35-39],8,0.158353,,0.172147
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age40_44,[40-44],10,0.149298,,0.239209
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age45_49,[45-49],14,0.143472,,0.373021
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age50_54,[50-54],15,0.092228,,0.37348
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age55_59,[55-59],21,0.095842,,0.619959
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age60_64,[60-64],22,0.071654,,0.763546
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age65_69,[65-69],49,0.109627,,1.883647
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age70_74,[70-74],88,0.128097,,3.759635
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age75_79,[75-79],104,0.108104,,5.295421
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age80_84,[80-84],81,0.078662,,6.102536
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age85_over,[85+],55,0.029556,,4.873022
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age10_14,[10-14],1,0.179856,,0.025544
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age15_19,[15-19],1,0.065488,,0.026615
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age20_24,[20-24],6,0.281558,,0.164688
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age25_29,[25-29],5,0.198649,,0.132456
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age30_34,[30-34],6,0.163666,,0.13366
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age35_39,[35-39],10,0.201005,,0.212258
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age40_44,[40-44],7,0.103443,,0.16307
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age45_49,[45-49],23,0.231575,,0.605971
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age50_54,[50-54],24,0.156148,,0.622329
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age55_59,[55-59],30,0.131862,,0.820784
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age60_64,[60-64],28,0.091909,,0.968092
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age65_69,[65-69],42,0.095003,,1.601886
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age70_74,[70-74],70,0.104439,,2.984414
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age75_79,[75-79],86,0.091322,,4.424303
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age80_84,[80-84],96,0.089122,,6.855713
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age85_over,[85+],68,0.035854,,6.035624
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age00,[0],1,0.02713,,0.147053
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age15_19,[15-19],2,0.137552,,0.051873
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age20_24,[20-24],6,0.2792,,0.161401
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age25_29,[25-29],7,0.298253,,0.190105
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age30_34,[30-34],11,0.308729,,0.249923
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age35_39,[35-39],10,0.200723,,0.212144
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age40_44,[40-44],13,0.184293,,0.296077
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age45_49,[45-49],19,0.196139,,0.491059
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age50_54,[50-54],23,0.154622,,0.614783
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age55_59,[55-59],27,0.114933,,0.710123
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age60_64,[60-64],26,0.085591,,0.88164
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age65_69,[65-69],38,0.086602,,1.431278
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age70_74,[70-74],75,0.115358,,3.197561
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age75_79,[75-79],93,0.101039,,4.81356
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age80_84,[80-84],76,0.066644,,5.182697
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age85_over,[85+],82,0.042748,,7.426547
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age01_04,[1-4],1,0.160256,,0.037226
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age05_09,[5-9],1,0.273224,,0.027716
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age10_14,[10-14],3,0.621118,,0.077583
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age15_19,[15-19],2,0.137457,,0.051008
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age20_24,[20-24],3,0.145914,,0.078582
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age25_29,[25-29],10,0.440917,,0.27188
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age30_34,[30-34],9,0.270433,,0.210502
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age35_39,[35-39],18,0.355802,,0.383701
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age40_44,[40-44],11,0.15986,,0.24478
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age45_49,[45-49],12,0.124468,,0.304214
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age50_54,[50-54],16,0.111638,,0.433629
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age55_59,[55-59],21,0.092748,,0.542326
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age60_64,[60-64],34,0.115184,,1.123378
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age65_69,[65-69],38,0.089372,,1.411525
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age70_74,[70-74],54,0.088007,,2.312199
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age75_79,[75-79],77,0.088784,,3.98259
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age80_84,[80-84],72,0.063992,,4.806473
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age85_over,[85+],65,0.03624,,5.851807
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age01_04,[1-4],2,0.336134,,0.07371
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age05_09,[5-9],2,0.576369,,0.056267
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age10_14,[10-14],2,0.378788,,0.052375
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age15_19,[15-19],1,0.067935,,0.025274
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age20_24,[20-24],4,0.199402,,0.101803
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age25_29,[25-29],8,0.375411,,0.212671
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age30_34,[30-34],13,0.404606,,0.311465
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age35_39,[35-39],5,0.103713,,0.107714
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age40_44,[40-44],12,0.169851,,0.260712
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age45_49,[45-49],10,0.102187,,0.247515
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age50_54,[50-54],14,0.10038,,0.38172
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age55_59,[55-59],30,0.131839,,0.767629
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age60_64,[60-64],27,0.091386,,0.867078
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age65_69,[65-69],34,0.081914,,1.253924
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age70_74,[70-74],49,0.082826,,2.099073
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age75_79,[75-79],80,0.094292,,4.112732
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age80_84,[80-84],92,0.084298,,6.237927
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age85_over,[85+],67,0.035937,,5.705459
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age00,[0],2,0.053519,,0.273394
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age01_04,[1-4],1,0.158479,,0.036171
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age15_19,[15-19],2,0.138408,,0.050048
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age20_24,[20-24],2,0.0999,,0.049703
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age25_29,[25-29],8,0.353513,,0.207462
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age30_34,[30-34],6,0.196528,,0.148507
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age35_39,[35-39],11,0.227555,,0.239195
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age40_44,[40-44],16,0.225829,,0.343121
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age45_49,[45-49],20,0.202758,,0.481856
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age50_54,[50-54],17,0.121281,,0.461574
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age55_59,[55-59],21,0.092699,,0.537089
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age60_64,[60-64],30,0.099295,,0.925888
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age65_69,[65-69],37,0.092723,,1.375006
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age70_74,[70-74],65,0.114628,,2.77989
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age75_79,[75-79],73,0.089574,,3.725792
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age80_84,[80-84],88,0.084687,,6.042524
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age85_over,[85+],77,0.041057,,6.193903
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age01_04,[1-4],1,0.155039,,0.03525
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age15_19,[15-19],1,0.071327,,0.024902
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age20_24,[20-24],4,0.198708,,0.096607
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age25_29,[25-29],7,0.315315,,0.176489
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age30_34,[30-34],9,0.293542,,0.231172
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age35_39,[35-39],13,0.276302,,0.286719
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age40_44,[40-44],10,0.140528,,0.212133
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age45_49,[45-49],16,0.164119,,0.37645
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age50_54,[50-54],13,0.094319,,0.348537
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age55_59,[55-59],25,0.115463,,0.667002
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age60_64,[60-64],18,0.057383,,0.516769
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age65_69,[65-69],21,0.053152,,0.778573
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age70_74,[70-74],37,0.06665,,1.5675
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age75_79,[75-79],73,0.091352,,3.702051
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age80_84,[80-84],59,0.057618,,4.063982
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age85_over,[85+],79,0.040497,,6.087558
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age00,[0],1,0.026702,,0.126886
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age01_04,[1-4],1,0.162602,,0.034345
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age15_19,[15-19],1,0.072202,,0.025076
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age20_24,[20-24],3,0.14771,,0.070962
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age25_29,[25-29],6,0.254022,,0.147264
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age30_34,[30-34],9,0.297718,,0.235222
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age35_39,[35-39],9,0.188521,,0.202784
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age40_44,[40-44],11,0.152969,,0.233371
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age45_49,[45-49],18,0.17783,,0.41352
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age50_54,[50-54],21,0.150236,,0.551683
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age55_59,[55-59],26,0.126576,,0.71565
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age60_64,[60-64],25,0.078309,,0.686968
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age65_69,[65-69],37,0.094054,,1.342327
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age70_74,[70-74],50,0.089925,,2.084535
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age75_79,[75-79],54,0.068551,,2.720643
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age80_84,[80-84],74,0.073229,,5.086585
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age85_over,[85+],87,0.042965,,6.515331
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age01_04,[1-4],1,0.182149,,0.033398
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age15_19,[15-19],1,0.075415,,0.025225
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age20_24,[20-24],3,0.162162,,0.070488
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age25_29,[25-29],6,0.253915,,0.144318
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age30_34,[30-34],5,0.177936,,0.130352
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age35_39,[35-39],11,0.240122,,0.254749
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age40_44,[40-44],14,0.192018,,0.298252
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age45_49,[45-49],13,0.131181,,0.291439
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age50_54,[50-54],17,0.125591,,0.437124
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age55_59,[55-59],19,0.095,,0.528358
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age60_64,[60-64],19,0.060674,,0.51087
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age65_69,[65-69],29,0.0756,,1.022184
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age70_74,[70-74],44,0.081671,,1.802117
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age75_79,[75-79],55,0.073863,,2.764728
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age80_84,[80-84],85,0.088015,,5.788164
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age85_over,[85+],76,0.038694,,5.550301
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age00,[0],2,0.057078,,0.251514
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age05_09,[5-9],1,0.306748,,0.029016
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age15_19,[15-19],1,0.08673,,0.025564
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age20_24,[20-24],3,0.165654,,0.069606
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age25_29,[25-29],4,0.18859,,0.094123
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age30_34,[30-34],4,0.142298,,0.102791
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age35_39,[35-39],10,0.232288,,0.237997
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age40_44,[40-44],10,0.144907,,0.215887
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age45_49,[45-49],9,0.090918,,0.197105
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age50_54,[50-54],11,0.079988,,0.276305
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age55_59,[55-59],10,0.051104,,0.279459
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age60_64,[60-64],18,0.057352,,0.478266
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age65_69,[65-69],35,0.090386,,1.193858
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age70_74,[70-74],32,0.059775,,1.296727
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age75_79,[75-79],53,0.072177,,2.647677
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age80_84,[80-84],80,0.083509,,5.359649
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age85_over,[85+],81,0.040155,,5.742193
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age01_04,[1-4],1,0.176367,,0.031979
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age15_19,[15-19],2,0.200602,,0.051767
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age20_24,[20-24],4,0.241692,,0.091421
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age25_29,[25-29],2,0.094877,,0.046168
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age30_34,[30-34],7,0.256598,,0.175639
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age35_39,[35-39],3,0.074147,,0.073643
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age40_44,[40-44],2,0.029811,,0.043538
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age45_49,[45-49],12,0.123102,,0.258488
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age50_54,[50-54],14,0.103207,,0.341549
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age55_59,[55-59],13,0.068794,,0.360614
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age60_64,[60-64],21,0.068551,,0.556391
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age65_69,[65-69],19,0.048927,,0.620114
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age70_74,[70-74],38,0.07275,,1.543024
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age75_79,[75-79],38,0.053843,,1.881158
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age80_84,[80-84],72,0.076969,,4.746097
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age85_over,[85+],78,0.038754,,5.377004
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age01_04,[1-4],1,0.191205,,0.031443
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age20_24,[20-24],4,0.258065,,0.092331
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age25_29,[25-29],5,0.25227,,0.115799
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age30_34,[30-34],5,0.187899,,0.117927
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age35_39,[35-39],2,0.054201,,0.04955
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age40_44,[40-44],7,0.110847,,0.153264
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age45_49,[45-49],11,0.113519,,0.234757
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age50_54,[50-54],16,0.119546,,0.377731
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age55_59,[55-59],13,0.069385,,0.352858
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age60_64,[60-64],17,0.058596,,0.469041
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age65_69,[65-69],16,0.038928,,0.478318
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age70_74,[70-74],33,0.063545,,1.332823
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age75_79,[75-79],48,0.06682,,2.345011
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age80_84,[80-84],61,0.06335,,3.977406
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age85_over,[85+],84,0.039006,,5.835793
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age20_24,[20-24],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age25_29,[25-29],7,0.350701,,0.160921
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age30_34,[30-34],6,0.215672,,0.138668
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age35_39,[35-39],4,0.10507,,0.100835
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age40_44,[40-44],11,0.171527,,0.244647
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age45_49,[45-49],10,0.102796,,0.213372
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age50_54,[50-54],11,0.079948,,0.253209
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age55_59,[55-59],13,0.068328,,0.346053
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age60_64,[60-64],26,0.091675,,0.734295
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age65_69,[65-69],24,0.05663,,0.687394
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age70_74,[70-74],28,0.053676,,1.102729
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age75_79,[75-79],47,0.064828,,2.24652
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age80_84,[80-84],53,0.054704,,3.419571
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age85_over,[85+],100,0.045459,,6.853183
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age10_14,[10-14],2,0.591716,,0.056786
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age20_24,[20-24],3,0.186916,,0.06954
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age25_29,[25-29],5,0.245459,,0.113832
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age30_34,[30-34],3,0.108617,,0.068865
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age35_39,[35-39],10,0.266241,,0.250364
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age40_44,[40-44],1,0.015805,,0.022777
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age45_49,[45-49],12,0.122976,,0.256816
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age50_54,[50-54],14,0.100894,,0.314038
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age55_59,[55-59],13,0.068794,,0.338285
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age60_64,[60-64],18,0.064963,,0.512587
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age65_69,[65-69],29,0.068325,,0.814185
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age70_74,[70-74],33,0.062771,,1.253054
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age75_79,[75-79],51,0.07082,,2.382983
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age80_84,[80-84],63,0.066724,,4.017775
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age85_over,[85+],92,0.042392,,6.120248
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age00,[0],1,0.038344,,0.142039
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age15_19,[15-19],1,0.122549,,0.027148
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age20_24,[20-24],2,0.138889,,0.048323
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age25_29,[25-29],1,0.048852,,0.022313
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age30_34,[30-34],1,0.032626,,0.022137
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age35_39,[35-39],7,0.151351,,0.159056
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age40_44,[40-44],7,0.109838,,0.171291
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age45_49,[45-49],10,0.094679,,0.231723
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age50_54,[50-54],19,0.114169,,0.4109
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age55_59,[55-59],13,0.053942,,0.288592
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age60_64,[60-64],17,0.052456,,0.441795
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age65_69,[65-69],21,0.04779,,0.626045
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age70_74,[70-74],24,0.034492,,0.714939
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age75_79,[75-79],25,0.028681,,1.041016
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age80_84,[80-84],33,0.029299,,1.91223
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age85_over,[85+],40,0.014822,,2.412334
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age20_24,[20-24],1,0.062422,,0.024079
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age25_29,[25-29],1,0.046125,,0.022152
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age30_34,[30-34],2,0.067272,,0.044473
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age35_39,[35-39],7,0.164474,,0.159248
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age40_44,[40-44],9,0.157563,,0.223906
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age45_49,[45-49],6,0.062435,,0.136298
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age50_54,[50-54],6,0.040231,,0.128727
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age55_59,[55-59],13,0.062085,,0.295058
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age60_64,[60-64],12,0.042641,,0.319558
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age65_69,[65-69],27,0.068228,,0.801615
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age70_74,[70-74],14,0.02282,,0.421831
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age75_79,[75-79],22,0.029636,,0.946116
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age80_84,[80-84],34,0.034685,,1.982128
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age85_over,[85+],67,0.028479,,4.067333
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age20_24,[20-24],3,0.189994,,0.073736
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age25_29,[25-29],2,0.092894,,0.045407
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age30_34,[30-34],2,0.067912,,0.046112
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age35_39,[35-39],3,0.070588,,0.070607
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age40_44,[40-44],5,0.085193,,0.12895
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age45_49,[45-49],10,0.099236,,0.228327
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age50_54,[50-54],9,0.0599,,0.198159
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age55_59,[55-59],13,0.06169,,0.311584
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age60_64,[60-64],15,0.053284,,0.420129
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age65_69,[65-69],19,0.046061,,0.574506
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age70_74,[70-74],20,0.032295,,0.630693
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age75_79,[75-79],20,0.026698,,0.919022
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age80_84,[80-84],53,0.053638,,3.24744
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age85_over,[85+],81,0.033496,,5.1567
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age20_24,[20-24],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age25_29,[25-29],1,0.050251,,0.022017
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age30_34,[30-34],4,0.143524,,0.090451
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age35_39,[35-39],4,0.096735,,0.09341
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age40_44,[40-44],7,0.118383,,0.172441
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age45_49,[45-49],15,0.152781,,0.327874
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age50_54,[50-54],15,0.101099,,0.321329
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age55_59,[55-59],15,0.074891,,0.358482
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age60_64,[60-64],8,0.028791,,0.222305
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age65_69,[65-69],16,0.038045,,0.460617
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age70_74,[70-74],22,0.037055,,0.707154
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age75_79,[75-79],32,0.043153,,1.469955
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age80_84,[80-84],39,0.03997,,2.385145
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age85_over,[85+],78,0.032592,,4.897642
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age05_09,[5-9],1,0.359712,,0.024768
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age20_24,[20-24],1,0.061125,,0.023509
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age25_29,[25-29],3,0.137868,,0.066509
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age30_34,[30-34],3,0.099867,,0.068056
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age35_39,[35-39],7,0.181347,,0.167483
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age40_44,[40-44],4,0.064031,,0.09583
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age45_49,[45-49],14,0.140267,,0.303086
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age50_54,[50-54],11,0.074319,,0.237479
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age55_59,[55-59],18,0.088426,,0.442621
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age60_64,[60-64],15,0.053585,,0.42442
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age65_69,[65-69],15,0.033687,,0.412483
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age70_74,[70-74],22,0.038993,,0.771371
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age75_79,[75-79],35,0.047604,,1.624489
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age80_84,[80-84],47,0.048807,,2.925167
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age85_over,[85+],96,0.041489,,6.137193
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age00,[0],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age01_04,[1-4],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age05_09,[5-9],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age10_14,[10-14],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age15_19,[15-19],0,0,,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age20_24,[20-24],1,0.064392,,0.023285
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age25_29,[25-29],5,0.244978,,0.112581
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age30_34,[30-34],8,0.282785,,0.182585
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age35_39,[35-39],6,0.153335,,0.147097
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age40_44,[40-44],5,0.081566,,0.116296
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age45_49,[45-49],19,0.192542,,0.410301
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age50_54,[50-54],16,0.110238,,0.350467
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age55_59,[55-59],9,0.046194,,0.22781
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age60_64,[60-64],15,0.053762,,0.428361
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age65_69,[65-69],22,0.050112,,0.608645
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age70_74,[70-74],28,0.050936,,1.027461
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age75_79,[75-79],49,0.065804,,2.266369
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age80_84,[80-84],55,0.055477,,3.473299
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age85_over,[85+],100,0.042199,,6.553694
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age20_24,[20-24],1,0.546448,,0.214225
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age25_29,[25-29],1,0.429185,,0.187547
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age30_34,[30-34],1,0.311526,,0.170853
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age35_39,[35-39],4,0.754717,,0.580046
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age40_44,[40-44],6,0.735294,,0.910747
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age45_49,[45-49],10,0.95511,,1.943257
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age50_54,[50-54],11,0.895765,,2.741775
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age55_59,[55-59],9,0.672646,,3.722084
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age60_64,[60-64],24,1.107011,,9.324009
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age65_69,[65-69],29,0.803324,,11.52623
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age70_74,[70-74],45,0.943198,,22.2332
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age75_79,[75-79],44,0.805271,,31.5865
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age80_84,[80-84],36,0.698487,,44.49938
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age85_over,[85+],77,1.14737,,140
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age20_24,[20-24],1,0.613497,,0.213721
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age25_29,[25-29],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age30_34,[30-34],4,1.328904,,0.686931
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age35_39,[35-39],4,0.775194,,0.58548
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age40_44,[40-44],6,0.732601,,0.884043
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age45_49,[45-49],12,1.107011,,2.223457
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age50_54,[50-54],7,0.547303,,1.601831
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age55_59,[55-59],6,0.47356,,2.375297
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age60_64,[60-64],19,0.981405,,7.569721
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age65_69,[65-69],24,0.696258,,9.596162
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age70_74,[70-74],48,1.019108,,22.83539
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age75_79,[75-79],51,0.980204,,35.39209
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age80_84,[80-84],55,1.101101,,63.73117
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age85_over,[85+],74,1.079032,,118.2109
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age15_19,[15-19],1,1.111111,,0.228258
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age20_24,[20-24],1,0.564972,,0.21978
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age25_29,[25-29],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age30_34,[30-34],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age35_39,[35-39],3,0.592885,,0.448163
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age40_44,[40-44],6,0.760456,,0.8726
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age45_49,[45-49],3,0.277264,,0.526039
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age50_54,[50-54],11,0.836502,,2.405423
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age55_59,[55-59],9,0.672143,,3.184713
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age60_64,[60-64],21,1.06599,,8.699254
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age65_69,[65-69],27,0.826953,,10.73132
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age70_74,[70-74],39,0.810474,,18.16488
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age75_79,[75-79],36,0.665311,,23.76238
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age80_84,[80-84],53,0.989729,,57.86026
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age85_over,[85+],57,0.772672,,84.19498
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age01_04,[1-4],1,2.083333,,0.505817
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age20_24,[20-24],4,2.185792,,0.885152
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age25_29,[25-29],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age30_34,[30-34],1,0.35461,,0.174429
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age35_39,[35-39],3,0.635593,,0.470514
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age40_44,[40-44],8,1.040312,,1.15141
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age45_49,[45-49],10,0.834725,,1.6675
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age50_54,[50-54],7,0.498576,,1.482737
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age55_59,[55-59],8,0.538721,,2.555094
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age60_64,[60-64],18,0.94093,,7.765315
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age65_69,[65-69],20,0.648929,,8.019246
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age70_74,[70-74],40,0.835247,,18.19009
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age75_79,[75-79],55,0.929525,,35.00955
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age80_84,[80-84],48,0.824176,,49.43357
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age85_over,[85+],52,0.612702,,72.32267
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age25_29,[25-29],2,0.735294,,0.411946
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age30_34,[30-34],5,1.47929,,0.886368
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age35_39,[35-39],2,0.426439,,0.325256
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age40_44,[40-44],10,1.347709,,1.430206
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age45_49,[45-49],7,0.613497,,1.117497
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age50_54,[50-54],8,0.561798,,1.629328
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age55_59,[55-59],11,0.690955,,3.18011
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age60_64,[60-64],10,0.541712,,4.332756
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age65_69,[65-69],28,0.904101,,11.28122
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age70_74,[70-74],39,0.807955,,17.11277
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age75_79,[75-79],37,0.637491,,22.68547
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age80_84,[80-84],59,0.980392,,57.28155
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age85_over,[85+],68,0.737607,,88.54167
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age25_29,[25-29],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age30_34,[30-34],1,0.3003,,0.179727
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age35_39,[35-39],5,1.061571,,0.846167
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age40_44,[40-44],4,0.512164,,0.580383
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age45_49,[45-49],8,0.715564,,1.234187
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age50_54,[50-54],4,0.277778,,0.784468
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age55_59,[55-59],11,0.661058,,2.834321
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age60_64,[60-64],10,0.562114,,4.253509
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age65_69,[65-69],28,0.91623,,11.37287
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age70_74,[70-74],30,0.619835,,13.1406
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age75_79,[75-79],50,0.823588,,29.44641
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age80_84,[80-84],63,0.95672,,58.49582
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age85_over,[85+],56,0.573418,,67.71463
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age25_29,[25-29],2,0.881057,,0.398168
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age30_34,[30-34],3,0.993377,,0.547046
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age35_39,[35-39],2,0.472813,,0.345185
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age40_44,[40-44],7,0.953678,,1.045244
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age45_49,[45-49],4,0.377358,,0.606612
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age50_54,[50-54],15,1.008742,,2.82167
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age55_59,[55-59],15,0.839866,,3.550296
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age60_64,[60-64],12,0.681431,,4.920049
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age65_69,[65-69],23,0.837887,,9.511993
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age70_74,[70-74],37,0.816417,,16.20675
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age75_79,[75-79],53,0.896179,,29.67525
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age80_84,[80-84],57,0.907643,,50.57675
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age85_over,[85+],64,0.660884,,70.56229
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age15_19,[15-19],1,1.470588,,0.226809
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age25_29,[25-29],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age30_34,[30-34],2,0.706714,,0.363769
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age35_39,[35-39],1,0.240385,,0.173883
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age40_44,[40-44],4,0.629921,,0.613779
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age45_49,[45-49],3,0.270514,,0.456066
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age50_54,[50-54],10,0.633714,,1.794688
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age55_59,[55-59],12,0.642055,,2.717391
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age60_64,[60-64],12,0.610066,,4.40367
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age65_69,[65-69],21,0.780959,,8.943782
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age70_74,[70-74],20,0.431965,,8.507018
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age75_79,[75-79],41,0.65297,,22.10243
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age80_84,[80-84],41,0.596885,,34.30962
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age85_over,[85+],62,0.56456,,63.72045
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age25_29,[25-29],1,0.510204,,0.189466
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age30_34,[30-34],2,0.699301,,0.369549
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age35_39,[35-39],2,0.533333,,0.347584
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age40_44,[40-44],5,0.793651,,0.804505
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age45_49,[45-49],7,0.64695,,1.047434
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age50_54,[50-54],9,0.557621,,1.537673
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age55_59,[55-59],8,0.403633,,1.747106
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age60_64,[60-64],13,0.642928,,4.28195
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age65_69,[65-69],13,0.496373,,5.757307
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age70_74,[70-74],27,0.61086,,11.45524
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age75_79,[75-79],32,0.494285,,16.57172
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age80_84,[80-84],43,0.603593,,34.51043
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age85_over,[85+],67,0.547475,,64.7343
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age15_19,[15-19],1,1.25,,0.231965
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age20_24,[20-24],1,0.729927,,0.220119
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age25_29,[25-29],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age30_34,[30-34],2,0.706714,,0.373274
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age35_39,[35-39],5,1.237624,,0.874585
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age40_44,[40-44],3,0.529101,,0.502428
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age45_49,[45-49],2,0.177305,,0.29824
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age50_54,[50-54],4,0.236686,,0.659848
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age55_59,[55-59],12,0.595829,,2.521538
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age60_64,[60-64],9,0.42898,,2.683363
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age65_69,[65-69],21,0.831025,,9.391771
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age70_74,[70-74],22,0.501253,,9.413778
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age75_79,[75-79],35,0.549278,,17.38698
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age80_84,[80-84],34,0.487106,,26.19414
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age85_over,[85+],53,0.445266,,48.09437
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age15_19,[15-19],1,1.282051,,0.233645
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age20_24,[20-24],1,0.724638,,0.221386
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age25_29,[25-29],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age30_34,[30-34],2,0.729927,,0.37092
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age35_39,[35-39],1,0.263158,,0.175223
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age40_44,[40-44],5,0.838926,,0.862218
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age45_49,[45-49],11,1.009174,,1.652644
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age50_54,[50-54],6,0.358423,,0.959386
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age55_59,[55-59],7,0.337187,,1.425372
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age60_64,[60-64],9,0.373754,,2.4
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age65_69,[65-69],12,0.469667,,5.293339
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age70_74,[70-74],15,0.352444,,6.421233
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age75_79,[75-79],29,0.466838,,14.25061
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age80_84,[80-84],32,0.437697,,23.32362
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age85_over,[85+],59,0.447716,,50.21277
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age20_24,[20-24],1,0.909091,,0.221484
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age25_29,[25-29],1,0.628931,,0.187231
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age30_34,[30-34],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age35_39,[35-39],1,0.251256,,0.177746
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age40_44,[40-44],1,0.18315,,0.174611
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age45_49,[45-49],5,0.481696,,0.767224
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age50_54,[50-54],7,0.415184,,1.097695
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age55_59,[55-59],4,0.19656,,0.779575
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age60_64,[60-64],13,0.501157,,3.173828
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age65_69,[65-69],4,0.160772,,1.707213
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age70_74,[70-74],18,0.475059,,7.8125
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age75_79,[75-79],34,0.569514,,16.5692
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age80_84,[80-84],39,0.519931,,26.69405
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age85_over,[85+],60,0.449978,,47.84689
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age20_24,[20-24],2,1.574803,,0.436872
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age25_29,[25-29],1,0.699301,,0.189107
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age30_34,[30-34],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age35_39,[35-39],3,0.857143,,0.530035
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age40_44,[40-44],7,1.182432,,1.215489
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age45_49,[45-49],4,0.412371,,0.627549
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age50_54,[50-54],5,0.31746,,0.779545
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age55_59,[55-59],8,0.369004,,1.479837
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age60_64,[60-64],6,0.2331,,1.400233
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age65_69,[65-69],14,0.534147,,5.295008
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age70_74,[70-74],18,0.480898,,8.141113
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age75_79,[75-79],25,0.405712,,11.96745
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age80_84,[80-84],40,0.521989,,26.49007
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age85_over,[85+],66,0.456684,,49.07063
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age20_24,[20-24],1,0.769231,,0.218579
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age25_29,[25-29],3,1.657459,,0.580833
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age30_34,[30-34],2,0.754717,,0.348857
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age35_39,[35-39],4,1.108033,,0.716461
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age40_44,[40-44],2,0.361011,,0.34632
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age45_49,[45-49],7,0.742312,,1.151695
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age50_54,[50-54],6,0.381437,,0.917151
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age55_59,[55-59],7,0.313199,,1.230012
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age60_64,[60-64],12,0.437637,,2.711252
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age65_69,[65-69],11,0.409378,,3.72755
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age70_74,[70-74],18,0.502092,,8.446739
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age75_79,[75-79],23,0.408236,,10.94196
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age80_84,[80-84],28,0.374131,,17.7665
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age85_over,[85+],54,0.366723,,37.52606
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age15_19,[15-19],2,3.571429,,0.517464
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age25_29,[25-29],1,0.684932,,0.194175
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age30_34,[30-34],2,0.769231,,0.345423
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age35_39,[35-39],2,0.540541,,0.359518
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age40_44,[40-44],1,0.18018,,0.17298
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age45_49,[45-49],3,0.31881,,0.510986
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age50_54,[50-54],7,0.444727,,1.063022
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age55_59,[55-59],6,0.249792,,1.015572
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age60_64,[60-64],12,0.424478,,2.608129
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age65_69,[65-69],9,0.304878,,2.758198
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age70_74,[70-74],23,0.65846,,10.8747
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age75_79,[75-79],27,0.472937,,12.90014
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age80_84,[80-84],34,0.423623,,20.64359
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age85_over,[85+],58,0.360719,,38.15789
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age25_29,[25-29],1,0.719424,,0.197785
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age30_34,[30-34],2,1.098901,,0.350754
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age35_39,[35-39],4,1.197605,,0.686813
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age40_44,[40-44],3,0.607287,,0.525394
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age45_49,[45-49],2,0.243605,,0.350939
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age50_54,[50-54],8,0.545331,,1.277955
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age55_59,[55-59],8,0.358262,,1.274697
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age60_64,[60-64],10,0.34153,,1.914975
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age65_69,[65-69],20,0.547345,,4.850837
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age70_74,[70-74],17,0.481723,,6.80817
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age75_79,[75-79],21,0.429097,,10.60071
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age80_84,[80-84],29,0.398242,,16.91949
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age85_over,[85+],59,0.336816,,32.22283
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age25_29,[25-29],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age30_34,[30-34],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age35_39,[35-39],2,0.615385,,0.350079
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age40_44,[40-44],1,0.185874,,0.1755
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age45_49,[45-49],2,0.240096,,0.352734
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age50_54,[50-54],5,0.330469,,0.777484
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age55_59,[55-59],11,0.448065,,1.76565
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age60_64,[60-64],9,0.295082,,1.817081
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age65_69,[65-69],14,0.383982,,3.538034
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age70_74,[70-74],10,0.290867,,4.528986
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age75_79,[75-79],17,0.320513,,8.236434
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age80_84,[80-84],28,0.372044,,16.76647
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age85_over,[85+],61,0.352703,,35.19908
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age00,[0],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age01_04,[1-4],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age05_09,[5-9],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age10_14,[10-14],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age15_19,[15-19],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age20_24,[20-24],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age25_29,[25-29],1,0.653595,,0.194704
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age30_34,[30-34],0,0,,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age35_39,[35-39],1,0.304878,,0.178795
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age40_44,[40-44],2,0.30581,,0.345841
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age45_49,[45-49],4,0.456621,,0.701878
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age50_54,[50-54],8,0.483676,,1.221188
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age55_59,[55-59],10,0.41684,,1.638538
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age60_64,[60-64],10,0.345423,,2.11015
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age65_69,[65-69],12,0.351803,,3.304875
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age70_74,[70-74],20,0.590145,,9.358914
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age75_79,[75-79],21,0.375604,,10.02387
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age80_84,[80-84],17,0.216505,,10.22864
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age85_over,[85+],63,0.371638,,38.8649

@@ -1,0 +1,319 @@
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,Age-standardized death rate per 100 000 standard population,Death rate per 100 000 population
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age_all,[All],8,0.003669,0.020767,0.025982
+NAC,North America and the Caribbean,CAN,Canada,2000,Male,Age_all,[All],3,0.002685,0.019962,0.019676
+NAC,North America and the Caribbean,CAN,Canada,2000,Female,Age_all,[All],5,0.004703,0.019969,0.032167
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age_all,[All],6,0.002733,0.010724,0.019342
+NAC,North America and the Caribbean,CAN,Canada,2001,Male,Age_all,[All],2,0.001786,0.00997,0.013017
+NAC,North America and the Caribbean,CAN,Canada,2001,Female,Age_all,[All],4,0.00372,0.013369,0.025548
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age_all,[All],4,0.001789,0.010989,0.01275
+NAC,North America and the Caribbean,CAN,Canada,2002,Male,Age_all,[All],1,0.000883,0.00538,0.006436
+NAC,North America and the Caribbean,CAN,Canada,2002,Female,Age_all,[All],3,0.002719,0.016275,0.018947
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age_all,[All],6,0.002653,0.011026,0.018946
+NAC,North America and the Caribbean,CAN,Canada,2003,Male,Age_all,[All],2,0.001741,0.009442,0.012751
+NAC,North America and the Caribbean,CAN,Canada,2003,Female,Age_all,[All],4,0.003595,0.012559,0.025025
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age_all,[All],8,0.003531,0.016152,0.025008
+NAC,North America and the Caribbean,CAN,Canada,2004,Male,Age_all,[All],5,0.004366,0.024642,0.03156
+NAC,North America and the Caribbean,CAN,Canada,2004,Female,Age_all,[All],3,0.002677,0.008787,0.01858
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age_all,[All],5,0.002173,0.009335,0.01548
+NAC,North America and the Caribbean,CAN,Canada,2005,Male,Age_all,[All],1,0.000862,0.004772,0.006252
+NAC,North America and the Caribbean,CAN,Canada,2005,Female,Age_all,[All],4,0.003505,0.01215,0.024534
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age_all,[All],6,0.002631,0.013241,0.018441
+NAC,North America and the Caribbean,CAN,Canada,2006,Male,Age_all,[All],3,0.002605,0.015572,0.018595
+NAC,North America and the Caribbean,CAN,Canada,2006,Female,Age_all,[All],3,0.002657,0.010344,0.018289
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age_all,[All],9,0.003826,0.014663,0.02733
+NAC,North America and the Caribbean,CAN,Canada,2007,Male,Age_all,[All],4,0.00337,0.01598,0.024491
+NAC,North America and the Caribbean,CAN,Canada,2007,Female,Age_all,[All],5,0.004291,0.013472,0.030123
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age_all,[All],9,0.003772,0.015197,0.026997
+NAC,North America and the Caribbean,CAN,Canada,2008,Male,Age_all,[All],3,0.002491,0.011758,0.018141
+NAC,North America and the Caribbean,CAN,Canada,2008,Female,Age_all,[All],6,0.005077,0.017069,0.035713
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age_all,[All],7,0.002936,0.012025,0.020743
+NAC,North America and the Caribbean,CAN,Canada,2009,Male,Age_all,[All],1,0.000831,0.004299,0.005973
+NAC,North America and the Caribbean,CAN,Canada,2009,Female,Age_all,[All],6,0.00508,0.018178,0.035286
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age_all,[All],12,0.004998,0.01714,0.035142
+NAC,North America and the Caribbean,CAN,Canada,2010,Male,Age_all,[All],6,0.004974,0.022854,0.035415
+NAC,North America and the Caribbean,CAN,Canada,2010,Female,Age_all,[All],6,0.005024,0.012884,0.034872
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age_all,[All],8,0.003305,0.014486,0.023162
+NAC,North America and the Caribbean,CAN,Canada,2011,Male,Age_all,[All],2,0.001652,0.008034,0.011672
+NAC,North America and the Caribbean,CAN,Canada,2011,Female,Age_all,[All],6,0.004957,0.019969,0.034474
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age_all,[All],10,0.004055,0.017279,0.028635
+NAC,North America and the Caribbean,CAN,Canada,2012,Male,Age_all,[All],6,0.00483,0.022004,0.034637
+NAC,North America and the Caribbean,CAN,Canada,2012,Female,Age_all,[All],4,0.003269,0.013737,0.022728
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age_all,[All],10,0.003963,0.014419,0.028331
+NAC,North America and the Caribbean,CAN,Canada,2013,Male,Age_all,[All],7,0.005513,0.022565,0.039989
+NAC,North America and the Caribbean,CAN,Canada,2013,Female,Age_all,[All],3,0.002393,0.008034,0.016862
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age_all,[All],11,0.00425,0.021864,0.030843
+NAC,North America and the Caribbean,CAN,Canada,2014,Male,Age_all,[All],3,0.002294,0.014766,0.016963
+NAC,North America and the Caribbean,CAN,Canada,2014,Female,Age_all,[All],8,0.006247,0.027578,0.044496
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age_all,[All],24,0.008674,0.030567,0.065338
+NAC,North America and the Caribbean,CAN,Canada,2017,Male,Age_all,[All],12,0.008505,0.040668,0.065868
+NAC,North America and the Caribbean,CAN,Canada,2017,Female,Age_all,[All],12,0.00885,0.020953,0.064816
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age_all,[All],19,0.00711,0.023643,0.052222
+NAC,North America and the Caribbean,CAN,Canada,2016,Male,Age_all,[All],12,0.008838,0.033969,0.066511
+NAC,North America and the Caribbean,CAN,Canada,2016,Female,Age_all,[All],7,0.005326,0.017132,0.038166
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age_all,[All],18,0.00681,0.019672,0.049963
+NAC,North America and the Caribbean,CAN,Canada,2015,Male,Age_all,[All],11,0.008243,0.031474,0.061576
+NAC,North America and the Caribbean,CAN,Canada,2015,Female,Age_all,[All],7,0.005348,0.010667,0.038541
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age_all,[All],34,0.010177,0.03152,0.088568
+NAC,North America and the Caribbean,CAN,Canada,2022,Male,Age_all,[All],17,0.009766,0.038052,0.089188
+NAC,North America and the Caribbean,CAN,Canada,2022,Female,Age_all,[All],17,0.010624,0.026768,0.087958
+NAC,North America and the Caribbean,CAN,Canada,2018,Female,Age_all,[All],13,0.00929,0.022721,0.069584
+NAC,North America and the Caribbean,CAN,Canada,2018,Male,Age_all,[All],5,0.00343,0.013003,0.027186
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age_all,[All],18,0.0063,0.018785,0.048551
+NAC,North America and the Caribbean,CAN,Canada,2019,Female,Age_all,[All],9,0.006477,0.01671,0.047752
+NAC,North America and the Caribbean,CAN,Canada,2019,Male,Age_all,[All],16,0.010933,0.050628,0.08619
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age_all,[All],25,0.008763,0.033013,0.066825
+NAC,North America and the Caribbean,CAN,Canada,2020,Female,Age_all,[All],14,0.009416,0.021003,0.073646
+NAC,North America and the Caribbean,CAN,Canada,2020,Male,Age_all,[All],8,0.005009,0.031048,0.042707
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age_all,[All],22,0.007133,0.027433,0.05829
+NAC,North America and the Caribbean,CAN,Canada,2021,Female,Age_all,[All],17,0.011493,0.026949,0.08868
+NAC,North America and the Caribbean,CAN,Canada,2021,Male,Age_all,[All],9,0.005497,0.024893,0.047624
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age_all,[All],26,0.008343,0.027326,0.068299
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age_all,[All],75,0.003121,0.018768,0.02665
+NAC,North America and the Caribbean,USA,United States of America,2000,Male,Age_all,[All],36,3.06E-03,0.021965,0.026077
+NAC,North America and the Caribbean,USA,United States of America,2000,Female,Age_all,[All],39,3.18E-03,0.016378,0.027203
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age_all,[All],60,0.002483,0.014478,0.021068
+NAC,North America and the Caribbean,USA,United States of America,2001,Male,Age_all,[All],21,0.001775,0.01211,0.01502
+NAC,North America and the Caribbean,USA,United States of America,2001,Female,Age_all,[All],39,0.003163,0.017342,0.0269
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age_all,[All],62,0.002537,0.015814,0.0215
+NAC,North America and the Caribbean,USA,United States of America,2002,Male,Age_all,[All],31,2.59E-03,0.018988,0.021883
+NAC,North America and the Caribbean,USA,United States of America,2002,Female,Age_all,[All],31,0.002492,0.012698,0.02113
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age_all,[All],67,2.74E-03,0.015114,0.023039
+NAC,North America and the Caribbean,USA,United States of America,2003,Male,Age_all,[All],26,0.002163,0.014932,0.018177
+NAC,North America and the Caribbean,USA,United States of America,2003,Female,Age_all,[All],41,0.00329,0.015022,0.027745
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age_all,[All],68,0.002836,0.01531,0.023156
+NAC,North America and the Caribbean,USA,United States of America,2004,Male,Age_all,[All],30,0.002539,0.017885,0.020756
+NAC,North America and the Caribbean,USA,United States of America,2004,Female,Age_all,[All],38,0.003125,0.011845,0.025483
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age_all,[All],59,2.41E-03,0.013269,0.019905
+NAC,North America and the Caribbean,USA,United States of America,2005,Male,Age_all,[All],24,1.99E-03,0.01358,0.016438
+NAC,North America and the Caribbean,USA,United States of America,2005,Female,Age_all,[All],35,0.002822,0.012446,0.02327
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age_all,[All],69,2.84E-03,0.015566,0.023046
+NAC,North America and the Caribbean,USA,United States of America,2006,Male,Age_all,[All],37,0.003078,0.018558,0.025083
+NAC,North America and the Caribbean,USA,United States of America,2006,Female,Age_all,[All],32,0.002614,0.01402,0.021068
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age_all,[All],65,0.002682,0.013913,0.021553
+NAC,North America and the Caribbean,USA,United States of America,2007,Male,Age_all,[All],25,0.002076,0.013152,0.016822
+NAC,North America and the Caribbean,USA,United States of America,2007,Female,Age_all,[All],40,0.003279,0.014165,0.026149
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age_all,[All],84,0.003398,0.017902,0.027678
+NAC,North America and the Caribbean,USA,United States of America,2008,Male,Age_all,[All],36,2.94E-03,0.018696,0.024027
+NAC,North America and the Caribbean,USA,United States of America,2008,Female,Age_all,[All],48,3.85E-03,0.01698,0.031238
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age_all,[All],64,0.002625,0.011852,0.020894
+NAC,North America and the Caribbean,USA,United States of America,2009,Male,Age_all,[All],28,2.30E-03,0.012913,0.018513
+NAC,North America and the Caribbean,USA,United States of America,2009,Female,Age_all,[All],36,0.002951,0.011178,0.023216
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age_all,[All],79,0.003199,0.015214,0.025565
+NAC,North America and the Caribbean,USA,United States of America,2010,Male,Age_all,[All],36,2.92E-03,0.017029,0.023589
+NAC,North America and the Caribbean,USA,United States of America,2010,Female,Age_all,[All],43,3.48E-03,0.013504,0.027494
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age_all,[All],82,0.00326,0.015063,0.026317
+NAC,North America and the Caribbean,USA,United States of America,2011,Male,Age_all,[All],37,2.95E-03,0.016605,0.024038
+NAC,North America and the Caribbean,USA,United States of America,2011,Female,Age_all,[All],45,0.00357,0.013639,0.028542
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age_all,[All],93,3.66E-03,0.019124,0.029614
+NAC,North America and the Caribbean,USA,United States of America,2012,Male,Age_all,[All],36,2.83E-03,0.01782,0.023197
+NAC,North America and the Caribbean,USA,United States of America,2012,Female,Age_all,[All],57,0.00449,0.01976,0.035882
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age_all,[All],74,0.002849,0.014396,0.023388
+NAC,North America and the Caribbean,USA,United States of America,2013,Male,Age_all,[All],33,0.002527,0.015246,0.021099
+NAC,North America and the Caribbean,USA,United States of America,2013,Female,Age_all,[All],41,0.003176,0.013625,0.025626
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age_all,[All],61,0.002323,0.011073,0.019142
+NAC,North America and the Caribbean,USA,United States of America,2014,Male,Age_all,[All],26,0.001957,0.012137,0.016499
+NAC,North America and the Caribbean,USA,United States of America,2014,Female,Age_all,[All],35,0.002696,0.009702,0.021727
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age_all,[All],109,0.003221,0.017174,0.03293
+NAC,North America and the Caribbean,USA,United States of America,2020,Male,Age_all,[All],53,3.00E-03,0.019782,0.032359
+NAC,North America and the Caribbean,USA,United States of America,2020,Female,Age_all,[All],56,3.47E-03,0.014941,0.033489
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age_all,[All],110,0.003853,0.020368,0.033428
+NAC,North America and the Caribbean,USA,United States of America,2019,Male,Age_all,[All],61,4.14E-03,0.025277,0.037463
+NAC,North America and the Caribbean,USA,United States of America,2019,Female,Age_all,[All],49,3.55E-03,0.016096,0.029476
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age_all,[All],114,4.02E-03,0.018672,0.034852
+NAC,North America and the Caribbean,USA,United States of America,2018,Male,Age_all,[All],52,3.57E-03,0.020344,0.032129
+NAC,North America and the Caribbean,USA,United States of America,2018,Female,Age_all,[All],62,4.49E-03,0.017062,0.037519
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age_all,[All],87,0.003092,0.015955,0.026762
+NAC,North America and the Caribbean,USA,United States of America,2017,Male,Age_all,[All],48,3.34E-03,0.019264,0.029843
+NAC,North America and the Caribbean,USA,United States of America,2017,Female,Age_all,[All],39,0.002838,0.0136,0.023745
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age_all,[All],85,3.10E-03,0.014555,0.026314
+NAC,North America and the Caribbean,USA,United States of America,2016,Male,Age_all,[All],41,2.93E-03,0.016489,0.025657
+NAC,North America and the Caribbean,USA,United States of America,2016,Female,Age_all,[All],44,3.27E-03,0.01269,0.026958
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age_all,[All],87,0.003207,0.015539,0.027113
+NAC,North America and the Caribbean,USA,United States of America,2015,Male,Age_all,[All],40,2.91E-03,0.016883,0.025203
+NAC,North America and the Caribbean,USA,United States of America,2015,Female,Age_all,[All],47,0.003509,0.014302,0.028983
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age_all,[All],118,3.41E-03,0.019456,0.035444
+NAC,North America and the Caribbean,USA,United States of America,2021,Male,Age_all,[All],48,0.002611,0.01781,0.029139
+NAC,North America and the Caribbean,USA,United States of America,2021,Female,Age_all,[All],70,0.004305,0.020959,0.041621
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age_all,[All],12,0.001973,0.010865,0.020099
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Male,Age_all,[All],5,0.001723,0.01331,0.017003
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Female,Age_all,[All],7,0.0022,0.007865,0.023104
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age_all,[All],20,0.003309,0.01803,0.033869
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,Male,Age_all,[All],7,0.002431,0.020244,0.024297
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,Female,Age_all,[All],13,0.004108,0.013332,0.042988
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age_all,[All],23,0.003783,0.02072,0.03877
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,Male,Age_all,[All],9,0.003113,0.023441,0.031073
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,Female,Age_all,[All],14,0.004389,0.017582,0.046115
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age_all,[All],25,0.004084,0.019036,0.041976
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,Male,Age_all,[All],12,0.00415,0.024158,0.041225
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,Female,Age_all,[All],13,0.004026,0.015785,0.042695
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age_all,[All],25,0.004275,0.021601,0.041774
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,Male,Age_all,[All],8,0.002868,0.015472,0.027324
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,Female,Age_all,[All],17,0.005558,0.027366,0.055614
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age_all,[All],27,0.004632,0.02416,0.044822
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Male,Age_all,[All],15,0.005408,0.03343,0.050853
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Female,Age_all,[All],12,0.003927,0.016447,0.039035
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age_all,[All],17,0.002971,0.014871,0.028059
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,Male,Age_all,[All],10,0.003647,0.020524,0.033677
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,Female,Age_all,[All],7,0.002349,0.009866,0.022659
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age_all,[All],12,0.002088,0.011146,0.01968
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,Male,Age_all,[All],5,0.001819,0.008243,0.016713
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,Female,Age_all,[All],7,0.002335,0.015247,0.022538
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age_all,[All],22,0.003795,0.015114,0.03584
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,Male,Age_all,[All],7,0.002529,0.012785,0.023216
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,Female,Age_all,[All],15,0.004951,0.016966,0.048028
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age_all,[All],20,0.003574,0.015509,0.032367
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,Male,Age_all,[All],8,0.002954,0.013475,0.026338
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,Female,Age_all,[All],12,0.004155,0.019242,0.038195
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age_all,[All],18,0.003205,0.013035,0.02891
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Male,Age_all,[All],8,0.002953,0.013068,0.026107
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Female,Age_all,[All],10,0.00344,0.014271,0.031627
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age_all,[All],35,0.006338,0.025971,0.055714
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,Male,Age_all,[All],17,0.006355,0.032305,0.054913
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,Female,Age_all,[All],18,0.006322,0.020043,0.056492
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age_all,[All],33,0.005799,0.027396,0.051801
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,Male,Age_all,[All],16,0.005853,0.031859,0.051094
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,Female,Age_all,[All],17,0.00575,0.022915,0.052485
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age_all,[All],25,0.004337,0.018266,0.038998
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Male,Age_all,[All],10,0.003582,0.019642,0.031713
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Female,Age_all,[All],15,0.005046,0.016003,0.046051
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age_all,[All],16,0.002805,0.013356,0.024769
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Male,Age_all,[All],10,0.003591,0.021275,0.031453
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Female,Age_all,[All],6,0.002056,0.005937,0.018291
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age_all,[All],36,0.005226,0.021214,0.053668
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,Male,Age_all,[All],13,0.003731,0.020096,0.039223
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,Female,Age_all,[All],23,0.006757,0.021363,0.067777
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age_all,[All],39,0.006463,0.024885,0.058386
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,Male,Age_all,[All],21,0.006981,0.032118,0.063678
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,Female,Age_all,[All],18,0.005948,0.01819,0.053225
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age_all,[All],39,0.006345,0.025458,0.060415
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Male,Age_all,[All],23,0.007576,0.035095,0.072182
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Female,Age_all,[All],16,0.005143,0.017584,0.048945
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age_all,[All],34,0.00561,0.026888,0.051484
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Male,Age_all,[All],11,0.003689,0.017196,0.033761
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Female,Age_all,[All],23,0.007471,0.035963,0.068742
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age_all,[All],38,0.006363,0.026227,0.057884
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Male,Age_all,[All],23,0.00785,0.0346,0.071037
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Female,Age_all,[All],15,0.004931,0.020312,0.045085
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age_all,[All],41,0.006802,0.030875,0.06297
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Male,Age_all,[All],22,0.007516,0.039339,0.06859
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Female,Age_all,[All],19,0.006128,0.024544,0.057514
+OA,Oceania,AUS,Australia,2000,All,Age_all,[All],5,0.003882,0.015712,0.026105
+OA,Oceania,AUS,Australia,2000,Male,Age_all,[All],2,0.002982,0.016306,0.021041
+OA,Oceania,AUS,Australia,2000,Female,Age_all,[All],3,0.00486,0.019835,0.031094
+OA,Oceania,AUS,Australia,2001,All,Age_all,[All],7,0.005441,0.023828,0.036058
+OA,Oceania,AUS,Australia,2001,Male,Age_all,[All],4,0.005987,0.032745,0.041534
+OA,Oceania,AUS,Australia,2001,Female,Age_all,[All],3,0.004851,0.015729,0.030667
+OA,Oceania,AUS,Australia,2002,All,Age_all,[All],4,0.003006,0.014627,0.020339
+OA,Oceania,AUS,Australia,2002,Male,Age_all,[All],2,0.002912,0.013813,0.020477
+OA,Oceania,AUS,Australia,2002,Female,Age_all,[All],2,0.003107,0.018101,0.020203
+OA,Oceania,AUS,Australia,2003,All,Age_all,[All],7,0.005312,0.016652,0.035224
+OA,Oceania,AUS,Australia,2003,Male,Age_all,[All],3,0.004416,0.021073,0.030385
+OA,Oceania,AUS,Australia,2003,Female,Age_all,[All],4,0.006265,0.016585,0.040003
+OA,Oceania,AUS,Australia,2004,All,Age_all,[All],13,0.009825,0.03717,0.064571
+OA,Oceania,AUS,Australia,2004,Male,Age_all,[All],4,0.005859,0.03108,0.040004
+OA,Oceania,AUS,Australia,2004,Female,Age_all,[All],9,0.014052,0.037781,0.088811
+OA,Oceania,AUS,Australia,2006,All,Age_all,[All],8,0.005982,0.022743,0.039226
+OA,Oceania,AUS,Australia,2006,Male,Age_all,[All],5,0.007293,0.034257,0.049368
+OA,Oceania,AUS,Australia,2006,Female,Age_all,[All],3,0.004602,0.014896,0.029221
+OA,Oceania,AUS,Australia,2007,All,Age_all,[All],5,0.003627,0.012278,0.023728
+OA,Oceania,AUS,Australia,2007,Male,Age_all,[All],3,0.004251,0.020377,0.028638
+OA,Oceania,AUS,Australia,2007,Female,Age_all,[All],2,0.002972,0.006487,0.018873
+OA,Oceania,AUS,Australia,2008,All,Age_all,[All],10,0.006947,0.033525,0.046515
+OA,Oceania,AUS,Australia,2008,Male,Age_all,[All],8,0.010877,0.056163,0.074793
+OA,Oceania,AUS,Australia,2008,Female,Age_all,[All],2,0.002841,0.015853,0.018514
+OA,Oceania,AUS,Australia,2009,All,Age_all,[All],5,0.003552,0.01576,0.022777
+OA,Oceania,AUS,Australia,2009,Male,Age_all,[All],2,0.002765,0.011984,0.018298
+OA,Oceania,AUS,Australia,2009,Female,Age_all,[All],3,0.004383,0.020919,0.02722
+OA,Oceania,AUS,Australia,2010,All,Age_all,[All],4,0.002788,0.01115,0.017939
+OA,Oceania,AUS,Australia,2010,Male,Age_all,[All],2,0.002722,0.015141,0.018018
+OA,Oceania,AUS,Australia,2010,Female,Age_all,[All],2,0.002858,0.006053,0.017862
+OA,Oceania,AUS,Australia,2011,All,Age_all,[All],15,0.010209,0.031909,0.067144
+OA,Oceania,AUS,Australia,2011,Male,Age_all,[All],7,0.009292,0.034748,0.06296
+OA,Oceania,AUS,Australia,2011,Female,Age_all,[All],8,0.011173,0.030767,0.07129
+OA,Oceania,AUS,Australia,2012,All,Age_all,[All],13,0.008838,0.026135,0.057198
+OA,Oceania,AUS,Australia,2012,Male,Age_all,[All],7,0.009359,0.034817,0.061877
+OA,Oceania,AUS,Australia,2012,Female,Age_all,[All],6,0.008298,0.019935,0.05256
+OA,Oceania,AUS,Australia,2013,All,Age_all,[All],6,0.004063,0.009249,0.025955
+OA,Oceania,AUS,Australia,2013,Male,Age_all,[All],2,0.002639,0.008142,0.017383
+OA,Oceania,AUS,Australia,2013,Female,Age_all,[All],4,0.005564,0.0103,0.034448
+OA,Oceania,AUS,Australia,2014,All,Age_all,[All],16,0.010418,0.035776,0.068073
+OA,Oceania,AUS,Australia,2014,Male,Age_all,[All],11,0.014041,0.055238,0.094183
+OA,Oceania,AUS,Australia,2014,Female,Age_all,[All],5,0.006645,0.021815,0.042284
+OA,Oceania,AUS,Australia,2017,All,Age_all,[All],20,0.012416,0.041088,0.08132
+OA,Oceania,AUS,Australia,2017,Male,Age_all,[All],10,0.012052,0.049315,0.081939
+OA,Oceania,AUS,Australia,2017,Female,Age_all,[All],10,0.012803,0.032125,0.08071
+OA,Oceania,AUS,Australia,2016,All,Age_all,[All],11,0.00694,0.019231,0.045472
+OA,Oceania,AUS,Australia,2016,Male,Age_all,[All],5,0.006107,0.022732,0.041656
+OA,Oceania,AUS,Australia,2016,Female,Age_all,[All],6,0.007829,0.01633,0.049229
+OA,Oceania,AUS,Australia,2015,All,Age_all,[All],7,0.004401,0.01363,0.029392
+OA,Oceania,AUS,Australia,2015,Male,Age_all,[All],5,0.006148,0.02431,0.042274
+OA,Oceania,AUS,Australia,2015,Female,Age_all,[All],2,0.002573,0.004255,0.016683
+OA,Oceania,AUS,Australia,2022,All,Age_all,[All],20,0.010475,0.034251,0.076907
+OA,Oceania,AUS,Australia,2022,Male,Age_all,[All],7,0.007005,0.021059,0.054233
+OA,Oceania,AUS,Australia,2022,Female,Age_all,[All],13,0.014283,0.047934,0.099249
+OA,Oceania,AUS,Australia,2021,All,Age_all,[All],17,0.009914,0.026007,0.066185
+OA,Oceania,AUS,Australia,2021,Male,Age_all,[All],7,0.00783,0.028027,0.054905
+OA,Oceania,AUS,Australia,2021,Female,Age_all,[All],10,0.012185,0.023334,0.077304
+OA,Oceania,AUS,Australia,2020,All,Age_all,[All],14,0.008679,0.018798,0.054583
+OA,Oceania,AUS,Australia,2020,Male,Age_all,[All],8,0.009458,0.026776,0.06285
+OA,Oceania,AUS,Australia,2020,Female,Age_all,[All],6,0.007821,0.013077,0.046437
+OA,Oceania,AUS,Australia,2019,All,Age_all,[All],15,0.008878,0.021211,0.059207
+OA,Oceania,AUS,Australia,2019,Male,Age_all,[All],3,0.003405,0.009758,0.023853
+OA,Oceania,AUS,Australia,2019,Female,Age_all,[All],12,0.014842,0.030076,0.094062
+OA,Oceania,AUS,Australia,2018,All,Age_all,[All],17,0.010715,0.029495,0.0681
+OA,Oceania,AUS,Australia,2018,Male,Age_all,[All],5,0.006065,0.024131,0.040354
+OA,Oceania,AUS,Australia,2018,Female,Age_all,[All],12,0.015744,0.031557,0.095442
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2000,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2000,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age_all,[All],2,0.005828,0.020173,0.029656
+AS,Asia,HKG,"China, Hong Kong SAR",2002,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,Female,Age_all,[All],2,0.013522,0.036589,0.057728
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age_all,[All],1,0.002585,0.019516,0.014677
+AS,Asia,HKG,"China, Hong Kong SAR",2005,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,Female,Age_all,[All],1,0.005845,0.039598,0.028175
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age_all,[All],1,0.002673,0.006968,0.014583
+AS,Asia,HKG,"China, Hong Kong SAR",2006,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,Female,Age_all,[All],1,0.006096,0.010161,0.027878
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age_all,[All],2,0.005005,0.017212,0.028917
+AS,Asia,HKG,"China, Hong Kong SAR",2007,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,Female,Age_all,[All],2,0.011537,0.03175,0.05506
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age_all,[All],1,0.002436,0.0111,0.014341
+AS,Asia,HKG,"China, Hong Kong SAR",2009,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,Female,Age_all,[All],1,0.0055,0.022455,0.027115
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age_all,[All],1,0.00237,0.009592,0.014141
+AS,Asia,HKG,"China, Hong Kong SAR",2011,Male,Age_all,[All],1,0.004236,0.018937,0.030276
+AS,Asia,HKG,"China, Hong Kong SAR",2011,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age_all,[All],1,0.002304,0.004392,0.01393
+AS,Asia,HKG,"China, Hong Kong SAR",2013,Male,Age_all,[All],1,0.004141,0.013418,0.030031
+AS,Asia,HKG,"China, Hong Kong SAR",2013,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age_all,[All],2,0.004375,0.017148,0.027664
+AS,Asia,HKG,"China, Hong Kong SAR",2014,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,Female,Age_all,[All],2,0.009839,0.034102,0.05148
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age_all,[All],1,0.002179,0.00528,0.013529
+AS,Asia,HKG,"China, Hong Kong SAR",2017,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,Female,Age_all,[All],1,0.004885,0.009536,0.025005
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age_all,[All],3,0.006429,0.012713,0.040891
+AS,Asia,HKG,"China, Hong Kong SAR",2016,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,Female,Age_all,[All],3,0.014522,0.0208,0.075735
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age_all,[All],3,0.006416,0.020573,0.041145
+AS,Asia,HKG,"China, Hong Kong SAR",2015,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,Female,Age_all,[All],3,0.014325,0.033129,0.076419

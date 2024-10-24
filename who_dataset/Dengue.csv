@@ -1,0 +1,316 @@
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,Age-standardized death rate per 100 000 standard population,Death rate per 100 000 population
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age_all,[All],1,0.00004161,0.00029365,0.00035534
+NAC,North America and the Caribbean,USA,United States of America,2000,Male,Age_all,[All],1,0.00008492,0.00059214,0.00072436
+NAC,North America and the Caribbean,USA,United States of America,2000,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age_all,[All],2,0.00008277,0.00061057,0.00070225
+NAC,North America and the Caribbean,USA,United States of America,2001,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2001,Female,Age_all,[All],2,0.00016221,0.00121565,0.00137946
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age_all,[All],2,0.00008185,0.00064634,0.00069356
+NAC,North America and the Caribbean,USA,United States of America,2002,Male,Age_all,[All],2,0.00016677,0.00129549,0.00141182
+NAC,North America and the Caribbean,USA,United States of America,2002,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2003,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2003,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2004,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2004,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age_all,[All],2,0.0000817,0.00065712,0.00067474
+NAC,North America and the Caribbean,USA,United States of America,2005,Male,Age_all,[All],1,0.0000828,0.0005397,0.00068493
+NAC,North America and the Caribbean,USA,United States of America,2005,Female,Age_all,[All],1,0.00008062,0.00080918,0.00066485
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2006,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2006,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2007,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2007,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2008,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2008,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age_all,[All],1,0.00004102,0.00023638,0.00032647
+NAC,North America and the Caribbean,USA,United States of America,2009,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2009,Female,Age_all,[All],1,0.00008197,0.00046102,0.0006449
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age_all,[All],3,0.00012149,0.00078661,0.00097084
+NAC,North America and the Caribbean,USA,United States of America,2010,Male,Age_all,[All],1,0.0000811,0.00062399,0.00065526
+NAC,North America and the Caribbean,USA,United States of America,2010,Female,Age_all,[All],2,0.00016178,0.00090242,0.00127877
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2011,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2011,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age_all,[All],2,0.00007864,0.0005918,0.00063685
+NAC,North America and the Caribbean,USA,United States of America,2012,Male,Age_all,[All],1,0.00007851,0.00074626,0.00064437
+NAC,North America and the Caribbean,USA,United States of America,2012,Female,Age_all,[All],1,0.00007877,0.00040928,0.00062951
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age_all,[All],3,0.00011552,0.00050757,0.00094817
+NAC,North America and the Caribbean,USA,United States of America,2013,Male,Age_all,[All],1,0.00007657,0.00044095,0.00063935
+NAC,North America and the Caribbean,USA,United States of America,2013,Female,Age_all,[All],2,0.00015492,0.00055474,0.00125006
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age_all,[All],2,0.00007615,0.00039242,0.0006276
+NAC,North America and the Caribbean,USA,United States of America,2014,Male,Age_all,[All],2,0.00015058,0.00083276,0.00126918
+NAC,North America and the Caribbean,USA,United States of America,2014,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age_all,[All],1,0.00002955,0.00014007,0.00030211
+NAC,North America and the Caribbean,USA,United States of America,2020,Male,Age_all,[All],1,0.0000565,0.00032257,0.00061055
+NAC,North America and the Caribbean,USA,United States of America,2020,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age_all,[All],3,0.00010508,0.00109898,0.00091167
+NAC,North America and the Caribbean,USA,United States of America,2019,Male,Age_all,[All],1,0.00006785,0.00066946,0.00061415
+NAC,North America and the Caribbean,USA,United States of America,2019,Female,Age_all,[All],2,0.00014482,0.00155555,0.00120309
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2018,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2018,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age_all,[All],1,0.00003554,0.00024902,0.00030761
+NAC,North America and the Caribbean,USA,United States of America,2017,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2017,Female,Age_all,[All],1,0.00007276,0.00049942,0.00060885
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age_all,[All],2,0.00007288,0.00037023,0.00061916
+NAC,North America and the Caribbean,USA,United States of America,2016,Male,Age_all,[All],2,0.00014283,0.0007958,0.00125158
+NAC,North America and the Caribbean,USA,United States of America,2016,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2015,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2015,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2021,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,USA,United States of America,2021,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2000,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2000,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2001,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2001,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2002,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2002,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2003,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2003,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age_all,[All],1,0.00044134,0.00234906,0.00312603
+NAC,North America and the Caribbean,CAN,Canada,2004,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2004,Female,Age_all,[All],1,0.00089229,0.00468187,0.00619323
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2005,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2005,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2006,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2006,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2007,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2007,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2008,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2008,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2009,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2009,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2010,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2010,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2011,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2011,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2012,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2012,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age_all,[All],2,0.00079259,0.00348675,0.00566628
+NAC,North America and the Caribbean,CAN,Canada,2013,Male,Age_all,[All],2,0.00157514,0.00725932,0.01142529
+NAC,North America and the Caribbean,CAN,Canada,2013,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2014,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2014,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2017,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2017,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2016,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2016,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age_all,[All],1,0.00037831,0.00154178,0.00277572
+NAC,North America and the Caribbean,CAN,Canada,2015,Male,Age_all,[All],1,0.00074939,0.00314002,0.00559781
+NAC,North America and the Caribbean,CAN,Canada,2015,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2022,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2022,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2021,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2021,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2020,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2020,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2019,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2019,Female,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2018,Male,Age_all,[All],0,0,0,0
+NAC,North America and the Caribbean,CAN,Canada,2018,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2000,All,Age_all,[All],3,0.00232948,0.01598614,0.01566303
+OA,Oceania,AUS,Australia,2000,Male,Age_all,[All],2,0.00298249,0.02323751,0.02104082
+OA,Oceania,AUS,Australia,2000,Female,Age_all,[All],1,0.00162006,0.00861933,0.01036479
+OA,Oceania,AUS,Australia,2001,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2001,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2001,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2002,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2002,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2002,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2003,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2003,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2003,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2004,All,Age_all,[All],1,0.00075578,0.00426502,0.00496703
+OA,Oceania,AUS,Australia,2004,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2004,Female,Age_all,[All],1,0.00156138,0.0084718,0.00986791
+OA,Oceania,AUS,Australia,2006,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2006,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2006,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2007,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2007,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2007,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2008,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2008,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2008,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2009,All,Age_all,[All],1,0.00071043,0.00209512,0.00455545
+OA,Oceania,AUS,Australia,2009,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2009,Female,Age_all,[All],1,0.00146113,0.00364239,0.00907328
+OA,Oceania,AUS,Australia,2010,All,Age_all,[All],1,0.000697,0.00442135,0.0044848
+OA,Oceania,AUS,Australia,2010,Male,Age_all,[All],1,0.00136084,0.00891196,0.00900881
+OA,Oceania,AUS,Australia,2010,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2011,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2011,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2011,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2012,All,Age_all,[All],2,0.00135964,0.00862015,0.00879962
+OA,Oceania,AUS,Australia,2012,Male,Age_all,[All],1,0.00133701,0.00922107,0.00883953
+OA,Oceania,AUS,Australia,2012,Female,Age_all,[All],1,0.00138305,0.00798543,0.00876007
+OA,Oceania,AUS,Australia,2013,All,Age_all,[All],1,0.00067715,0.00460336,0.00432575
+OA,Oceania,AUS,Australia,2013,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2013,Female,Age_all,[All],1,0.0013909,0.00917484,0.00861195
+OA,Oceania,AUS,Australia,2014,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2014,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2014,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2017,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2017,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2017,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2016,All,Age_all,[All],1,0.0006309,0.0024768,0.00413378
+OA,Oceania,AUS,Australia,2016,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2016,Female,Age_all,[All],1,0.00130485,0.00489268,0.00820488
+OA,Oceania,AUS,Australia,2015,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2015,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2015,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2022,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2022,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2022,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2021,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2021,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2021,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2020,All,Age_all,[All],1,0.00061996,0.00342468,0.00389875
+OA,Oceania,AUS,Australia,2020,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2020,Female,Age_all,[All],1,0.00130358,0.00674087,0.00773957
+OA,Oceania,AUS,Australia,2019,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2019,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2019,Female,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2018,All,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2018,Male,Age_all,[All],0,0,0,0
+OA,Oceania,AUS,Australia,2018,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age_all,[All],1,0.00017574,0.0010272,0.00156973
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,Male,Age_all,[All],1,0.00036584,0.00209604,0.00319335
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age_all,[All],1,0.00017533,0.00070789,0.00154807
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Male,Age_all,[All],1,0.00035912,0.00154625,0.00314527
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age_all,[All],1,0.00014518,0.00198654,0.00149079
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,Female,Age_all,[All],1,0.0002938,0.00410267,0.00294681
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age_all,[All],1,0.00016572,0.00115232,0.00149708
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,Male,Age_all,[All],1,0.00033245,0.00234264,0.0030323
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age_all,[All],1,0.00016268,0.00104276,0.00154909
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Male,Age_all,[All],1,0.00032941,0.00212886,0.00313834
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age_all,[All],2,0.00033001,0.00251924,0.00302846
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Male,Age_all,[All],1,0.00033535,0.00336051,0.0030692
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Female,Age_all,[All],1,0.00032483,0.00164954,0.00298878
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age_all,[All],2,0.00033489,0.00186272,0.00304655
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Male,Age_all,[All],2,0.0006826,0.00388514,0.0061771
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Female,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Male,Age_all,[All],0,0,0,0
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2001,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2002,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2003,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2004,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2005,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2006,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2007,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2008,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2009,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2010,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2011,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2012,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2013,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2014,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2017,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2016,Female,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,Male,Age_all,[All],0,0,0,0
+AS,Asia,HKG,"China, Hong Kong SAR",2015,Female,Age_all,[All],0,0,0,0

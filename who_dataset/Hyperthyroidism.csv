@@ -1,0 +1,319 @@
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,Age-standardized death rate per 100 000 standard population,Death rate per 100 000 population
+NAC,North America and the Caribbean,CAN,Canada,2000,All,Age_all,[All],2123,0.97357632,4.70193264,6.89490905
+NAC,North America and the Caribbean,CAN,Canada,2000,Male,Age_all,[All],927,0.82959701,4.99571009,6.07989892
+NAC,North America and the Caribbean,CAN,Canada,2000,Female,Age_all,[All],1196,1.12490594,4.40295413,7.69435154
+NAC,North America and the Caribbean,CAN,Canada,2001,All,Age_all,[All],2314,1.05403165,5.02592918,7.45940259
+NAC,North America and the Caribbean,CAN,Canada,2001,Male,Age_all,[All],1029,0.91875,5.43526538,6.69729851
+NAC,North America and the Caribbean,CAN,Canada,2001,Female,Age_all,[All],1285,1.19493756,4.61456825,8.20727187
+NAC,North America and the Caribbean,CAN,Canada,2002,All,Age_all,[All],2456,1.09837525,5.17462667,7.82849052
+NAC,North America and the Caribbean,CAN,Canada,2002,Male,Age_all,[All],1096,0.96763371,5.6321554,7.0534152
+NAC,North America and the Caribbean,CAN,Canada,2002,Female,Age_all,[All],1360,1.23258744,4.73516237,8.5891039
+NAC,North America and the Caribbean,CAN,Canada,2003,All,Age_all,[All],2581,1.14118204,5.1895574,8.14988719
+NAC,North America and the Caribbean,CAN,Canada,2003,Male,Age_all,[All],1173,1.02084331,5.78259549,7.47832434
+NAC,North America and the Caribbean,CAN,Canada,2003,Female,Age_all,[All],1408,1.26545873,4.59759902,8.80890911
+NAC,North America and the Caribbean,CAN,Canada,2004,All,Age_all,[All],2651,1.16998552,5.26590123,8.28710612
+NAC,North America and the Caribbean,CAN,Canada,2004,Male,Age_all,[All],1225,1.06974754,5.91303459,7.7322254
+NAC,North America and the Caribbean,CAN,Canada,2004,Female,Age_all,[All],1426,1.27240767,4.63524407,8.831544
+NAC,North America and the Caribbean,CAN,Canada,2005,All,Age_all,[All],2720,1.18193037,5.26743765,8.42118403
+NAC,North America and the Caribbean,CAN,Canada,2005,Male,Age_all,[All],1217,1.04908367,5.78592385,7.60835086
+NAC,North America and the Caribbean,CAN,Canada,2005,Female,Age_all,[All],1503,1.31696546,4.69571101,9.21864529
+NAC,North America and the Caribbean,CAN,Canada,2006,All,Age_all,[All],2615,1.14653256,4.93975179,8.03700724
+NAC,North America and the Caribbean,CAN,Canada,2006,Male,Age_all,[All],1159,1.00652198,5.28048775,7.18383725
+NAC,North America and the Caribbean,CAN,Canada,2006,Female,Age_all,[All],1456,1.28929425,4.57619752,8.87612472
+NAC,North America and the Caribbean,CAN,Canada,2007,All,Age_all,[All],2857,1.21462309,5.18420903,8.67577016
+NAC,North America and the Caribbean,CAN,Canada,2007,Male,Age_all,[All],1336,1.12570673,5.83835125,8.18015593
+NAC,North America and the Caribbean,CAN,Canada,2007,Female,Age_all,[All],1521,1.30517608,4.54518358,9.16343005
+NAC,North America and the Caribbean,CAN,Canada,2008,All,Age_all,[All],2908,1.21868936,5.16224389,8.72287353
+NAC,North America and the Caribbean,CAN,Canada,2008,Male,Age_all,[All],1352,1.12268115,5.75903518,8.17550981
+NAC,North America and the Caribbean,CAN,Canada,2008,Female,Age_all,[All],1556,1.3165131,4.55543226,9.26166054
+NAC,North America and the Caribbean,CAN,Canada,2009,All,Age_all,[All],3033,1.27213549,5.2321376,8.98770711
+NAC,North America and the Caribbean,CAN,Canada,2009,Male,Age_all,[All],1464,1.21684634,6.01987065,8.74448908
+NAC,North America and the Caribbean,CAN,Canada,2009,Female,Age_all,[All],1569,1.3284564,4.52831948,9.22717553
+NAC,North America and the Caribbean,CAN,Canada,2010,All,Age_all,[All],3035,1.26418827,5.05067579,8.88789607
+NAC,North America and the Caribbean,CAN,Canada,2010,Male,Age_all,[All],1404,1.1638124,5.6188571,8.28719107
+NAC,North America and the Caribbean,CAN,Canada,2010,Female,Age_all,[All],1631,1.36557348,4.47582514,9.47938475
+NAC,North America and the Caribbean,CAN,Canada,2011,All,Age_all,[All],2958,1.2219404,4.79952784,8.56419231
+NAC,North America and the Caribbean,CAN,Canada,2011,Male,Age_all,[All],1372,1.13349085,5.2735906,8.0070191
+NAC,North America and the Caribbean,CAN,Canada,2011,Female,Age_all,[All],1586,1.31039725,4.32410703,9.11274814
+NAC,North America and the Caribbean,CAN,Canada,2012,All,Age_all,[All],2965,1.20237149,4.56948391,8.49034263
+NAC,North America and the Caribbean,CAN,Canada,2012,Male,Age_all,[All],1390,1.11884735,5.08614854,8.02431865
+NAC,North America and the Caribbean,CAN,Canada,2012,Female,Age_all,[All],1575,1.28717484,4.06664951,8.94902228
+NAC,North America and the Caribbean,CAN,Canada,2013,All,Age_all,[All],3031,1.20116669,4.67744563,8.58724688
+NAC,North America and the Caribbean,CAN,Canada,2013,Male,Age_all,[All],1409,1.10968474,5.15111408,8.04911457
+NAC,North America and the Caribbean,CAN,Canada,2013,Female,Age_all,[All],1622,1.29382204,4.19559861,9.11671099
+NAC,North America and the Caribbean,CAN,Canada,2014,All,Age_all,[All],3056,1.18073881,4.62329174,8.56878399
+NAC,North America and the Caribbean,CAN,Canada,2014,Male,Age_all,[All],1532,1.17160315,5.4002351,8.66264826
+NAC,North America and the Caribbean,CAN,Canada,2014,Female,Age_all,[All],1524,1.19006716,3.90297556,8.47645462
+NAC,North America and the Caribbean,CAN,Canada,2017,All,Age_all,[All],3058,1.10521199,4.3398178,8.32514454
+NAC,North America and the Caribbean,CAN,Canada,2017,Male,Age_all,[All],1516,1.07442292,4.91157649,8.32135994
+NAC,North America and the Caribbean,CAN,Canada,2017,Female,Age_all,[All],1542,1.13725201,3.80848291,8.32887047
+NAC,North America and the Caribbean,CAN,Canada,2016,All,Age_all,[All],3011,1.12681643,4.37170896,8.27585585
+NAC,North America and the Caribbean,CAN,Canada,2016,Male,Age_all,[All],1439,1.05986507,4.82251686,7.97579217
+NAC,North America and the Caribbean,CAN,Canada,2016,Female,Age_all,[All],1572,1.19597386,3.94095752,8.57103273
+NAC,North America and the Caribbean,CAN,Canada,2015,All,Age_all,[All],3097,1.17162821,4.5436394,8.59640784
+NAC,North America and the Caribbean,CAN,Canada,2015,Male,Age_all,[All],1518,1.1375814,5.14690833,8.4974713
+NAC,North America and the Caribbean,CAN,Canada,2015,Female,Age_all,[All],1579,1.20633805,3.99473928,8.69372274
+NAC,North America and the Caribbean,CAN,Canada,2022,All,Age_all,[All],4051,1.21258018,4.92349714,10.55266173
+NAC,North America and the Caribbean,CAN,Canada,2022,Male,Age_all,[All],2028,1.16508201,5.57237478,10.63957876
+NAC,North America and the Caribbean,CAN,Canada,2022,Female,Age_all,[All],2023,1.26424858,4.33288047,10.46694528
+NAC,North America and the Caribbean,CAN,Canada,2021,All,Age_all,[All],3754,1.20459505,4.83278364,9.86132596
+NAC,North America and the Caribbean,CAN,Canada,2021,Male,Age_all,[All],1917,1.17085863,5.59877843,10.14398318
+NAC,North America and the Caribbean,CAN,Canada,2021,Female,Age_all,[All],1837,1.24193788,4.12356101,9.58267577
+NAC,North America and the Caribbean,CAN,Canada,2020,All,Age_all,[All],3579,1.16046068,4.66404015,9.48276561
+NAC,North America and the Caribbean,CAN,Canada,2020,Male,Age_all,[All],1843,1.15387987,5.4853477,9.83868507
+NAC,North America and the Caribbean,CAN,Canada,2020,Female,Age_all,[All],1736,1.16752976,3.91659131,9.13204586
+NAC,North America and the Caribbean,CAN,Canada,2019,All,Age_all,[All],3327,1.16613682,4.43599707,8.89309513
+NAC,North America and the Caribbean,CAN,Canada,2019,Male,Age_all,[All],1699,1.16097908,5.16996815,9.15235016
+NAC,North America and the Caribbean,CAN,Canada,2019,Female,Age_all,[All],1628,1.17156859,3.76836748,8.63775036
+NAC,North America and the Caribbean,CAN,Canada,2018,All,Age_all,[All],3282,1.14874135,4.45264963,8.85243095
+NAC,North America and the Caribbean,CAN,Canada,2018,Male,Age_all,[All],1571,1.07771779,4.91451884,8.54170109
+NAC,North America and the Caribbean,CAN,Canada,2018,Female,Age_all,[All],1711,1.22272802,4.00978461,9.15833411
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,All,Age_all,[All],2983,0.49032983,2.97053789,4.99631524
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Male,Age_all,[All],1417,0.4883075,3.43605937,4.81870465
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,Female,Age_all,[All],1566,0.49217424,2.63544575,5.16869962
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,All,Age_all,[All],2564,0.42422728,2.8693314,4.3420207
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,Male,Age_all,[All],1053,0.36570246,2.88355763,3.65503128
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,Female,Age_all,[All],1511,0.47747856,2.80292337,4.99648758
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,All,Age_all,[All],2782,0.45753193,3.02115497,4.6895414
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,Male,Age_all,[All],1167,0.40369308,3.11381165,4.02908746
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,Female,Age_all,[All],1615,0.50632673,2.88068374,5.31965301
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,All,Age_all,[All],2804,0.45810631,3.04354972,4.70806623
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,Male,Age_all,[All],1164,0.4025105,3.03619251,3.99879418
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,Female,Age_all,[All],1640,0.50789718,3.01440128,5.3861286
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,All,Age_all,[All],2704,0.46238742,2.88579012,4.51827547
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,Male,Age_all,[All],1107,0.39689084,2.87317965,3.78100114
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,Female,Age_all,[All],1597,0.52211212,2.84139123,5.22443786
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,All,Age_all,[All],2879,0.49385554,2.96708946,4.77934476
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Male,Age_all,[All],1192,0.42978341,2.96201814,4.04108399
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,Female,Age_all,[All],1687,0.5520017,2.92905432,5.4877231
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,All,Age_all,[All],2772,0.48442568,2.87090029,4.57521256
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,Male,Age_all,[All],1150,0.41940037,2.86972757,3.87284057
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,Female,Age_all,[All],1622,0.5442533,2.81050938,5.25031542
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,All,Age_all,[All],2943,0.51210485,3.09466761,4.82654017
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,Male,Age_all,[All],1280,0.4656408,3.21260758,4.27863157
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,Female,Age_all,[All],1663,0.55470869,2.93839178,5.35428289
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,All,Age_all,[All],2960,0.51061158,3.00881565,4.8221697
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,Male,Age_all,[All],1296,0.46830114,3.13322415,4.29831685
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,Female,Age_all,[All],1664,0.54926193,2.86269545,5.32789956
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,All,Age_all,[All],2946,0.52643147,2.96018447,4.76761085
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,Male,Age_all,[All],1294,0.47783637,3.0229346,4.26022116
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,Female,Age_all,[All],1652,0.57199641,2.88631091,5.25814132
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,All,Age_all,[All],3098,0.55157335,3.02549877,4.97575028
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Male,Age_all,[All],1361,0.50231597,3.14770443,4.44143432
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,Female,Age_all,[All],1737,0.59748006,2.8687998,5.49358223
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,All,Age_all,[All],2673,0.4840357,2.64020433,4.25494917
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,Male,Age_all,[All],1165,0.43552867,2.6528648,3.76316251
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,Female,Age_all,[All],1508,0.5296041,2.60208425,4.73276838
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,All,Age_all,[All],2831,0.49751856,2.7603852,4.44391911
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,Male,Age_all,[All],1321,0.48326852,2.94322185,4.21841598
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,Female,Age_all,[All],1510,0.51069241,2.57326638,4.66193874
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,All,Age_all,[All],2896,0.50237832,2.79820328,4.51754224
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Male,Age_all,[All],1380,0.49432069,2.9725295,4.37638524
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,Female,Age_all,[All],1516,0.50994494,2.63881845,4.65419271
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,All,Age_all,[All],2944,0.51618242,2.74377799,4.55750469
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Male,Age_all,[All],1451,0.52108958,3.05225763,4.56378977
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,Female,Age_all,[All],1493,0.51150107,2.4515921,4.55141298
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,All,Age_all,[All],3809,0.55298589,3.21512547,5.67841867
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,Male,Age_all,[All],1995,0.57256016,3.70347574,6.0192798
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2020,Female,Age_all,[All],1814,0.53294787,2.76171637,5.34550813
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,All,Age_all,[All],3642,0.60356071,3.11939123,5.45235643
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,Male,Age_all,[All],1785,0.59342347,3.37748656,5.41266179
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,Female,Age_all,[All],1857,0.61363681,2.87804247,5.4910647
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,All,Age_all,[All],3681,0.59883844,3.28925428,5.70221085
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Male,Age_all,[All],1834,0.60413407,3.62501636,5.75571141
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,Female,Age_all,[All],1847,0.59367115,2.97898926,5.65006196
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,All,Age_all,[All],3656,0.60325155,3.23858182,5.53601957
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Male,Age_all,[All],1774,0.59491672,3.49581232,5.44475734
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,Female,Age_all,[All],1882,0.61132478,2.99685306,5.62489069
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,All,Age_all,[All],3395,0.56848246,3.1435359,5.17151658
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Male,Age_all,[All],1652,0.56382445,3.40688396,5.10228128
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,Female,Age_all,[All],1743,0.57296889,2.88136884,5.23889418
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,All,Age_all,[All],3325,0.55160995,3.09532479,5.10673977
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Male,Age_all,[All],1574,0.5377391,3.3173665,4.90733355
+EU,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,Female,Age_all,[All],1751,0.56470391,2.86868534,5.30034443
+NAC,North America and the Caribbean,USA,United States of America,2000,All,Age_all,[All],27657,1.15076824,6.69885355,9.82759317
+NAC,North America and the Caribbean,USA,United States of America,2000,Male,Age_all,[All],11731,0.99619728,7.07332502,8.49742647
+NAC,North America and the Caribbean,USA,United States of America,2000,Female,Age_all,[All],15926,1.29926177,6.30349619,11.10844951
+NAC,North America and the Caribbean,USA,United States of America,2001,All,Age_all,[All],28714,1.18828435,6.81428272,10.08227313
+NAC,North America and the Caribbean,USA,United States of America,2001,Male,Age_all,[All],12187,1.02981103,7.15549881,8.71663621
+NAC,North America and the Caribbean,USA,United States of America,2001,Female,Age_all,[All],16527,1.34038495,6.45442139,11.39920625
+NAC,North America and the Caribbean,USA,United States of America,2002,All,Age_all,[All],29418,1.20398447,6.90826156,10.20152305
+NAC,North America and the Caribbean,USA,United States of America,2002,Male,Age_all,[All],12673,1.05673146,7.27860412,8.94600616
+NAC,North America and the Caribbean,USA,United States of America,2002,Female,Age_all,[All],16745,1.34592802,6.51454618,11.41385015
+NAC,North America and the Caribbean,USA,United States of America,2003,All,Age_all,[All],29750,1.21513482,6.90484197,10.23001936
+NAC,North America and the Caribbean,USA,United States of America,2003,Male,Age_all,[All],13031,1.08414229,7.35324622,9.11021175
+NAC,North America and the Caribbean,USA,United States of America,2003,Female,Age_all,[All],16719,1.34146498,6.45548083,11.31393661
+NAC,North America and the Caribbean,USA,United States of America,2004,All,Age_all,[All],29618,1.23531092,6.76474283,10.08597138
+NAC,North America and the Caribbean,USA,United States of America,2004,Male,Age_all,[All],13261,1.12222722,7.31543352,9.17478785
+NAC,North America and the Caribbean,USA,United States of America,2004,Female,Age_all,[All],16357,1.34520666,6.24491819,10.96916521
+NAC,North America and the Caribbean,USA,United States of America,2005,All,Age_all,[All],31693,1.2946397,7.07756948,10.69226976
+NAC,North America and the Caribbean,USA,United States of America,2005,Male,Age_all,[All],14184,1.17448817,7.64219969,9.71508539
+NAC,North America and the Caribbean,USA,United States of America,2005,Female,Age_all,[All],17509,1.41162679,6.52026003,11.64079742
+NAC,North America and the Caribbean,USA,United States of America,2006,All,Age_all,[All],30820,1.2702474,6.80717275,10.2939733
+NAC,North America and the Caribbean,USA,United States of America,2006,Male,Age_all,[All],13823,1.15001531,7.28811077,9.3707534
+NAC,North America and the Caribbean,USA,United States of America,2006,Female,Age_all,[All],16997,1.38828651,6.34938765,11.19060535
+NAC,North America and the Caribbean,USA,United States of America,2007,All,Age_all,[All],31640,1.30533707,6.89934947,10.49141555
+NAC,North America and the Caribbean,USA,United States of America,2007,Male,Age_all,[All],14692,1.2201543,7.66011373,9.88613969
+NAC,North America and the Caribbean,USA,United States of America,2007,Female,Age_all,[All],16948,1.38942519,6.21171887,11.07945645
+NAC,North America and the Caribbean,USA,United States of America,2008,All,Age_all,[All],32576,1.31780788,7.04905144,10.73393788
+NAC,North America and the Caribbean,USA,United States of America,2008,Male,Age_all,[All],15014,1.22440824,7.65051947,10.02076409
+NAC,North America and the Caribbean,USA,United States of America,2008,Female,Age_all,[All],17562,1.40974298,6.47622234,11.42934287
+NAC,North America and the Caribbean,USA,United States of America,2009,All,Age_all,[All],33242,1.36352599,7.07487486,10.85249063
+NAC,North America and the Caribbean,USA,United States of America,2009,Male,Age_all,[All],15559,1.27746291,7.76065017,10.28732167
+NAC,North America and the Caribbean,USA,United States of America,2009,Female,Age_all,[All],17683,1.4494488,6.4333909,11.40374136
+NAC,North America and the Caribbean,USA,United States of America,2010,All,Age_all,[All],33721,1.36561632,7.01133822,10.91253974
+NAC,North America and the Caribbean,USA,United States of America,2010,Male,Age_all,[All],15907,1.29005103,7.74032334,10.42323907
+NAC,North America and the Caribbean,USA,United States of America,2010,Female,Age_all,[All],17814,1.440987,6.33975375,11.38998487
+NAC,North America and the Caribbean,USA,United States of America,2011,All,Age_all,[All],35294,1.40308445,7.20757027,11.32728082
+NAC,North America and the Caribbean,USA,United States of America,2011,Male,Age_all,[All],16697,1.33046157,7.93198444,10.84757826
+NAC,North America and the Caribbean,USA,United States of America,2011,Female,Age_all,[All],18597,1.47539033,6.53526986,11.79561418
+NAC,North America and the Caribbean,USA,United States of America,2012,All,Age_all,[All],36116,1.42005655,7.21438191,11.50030353
+NAC,North America and the Caribbean,USA,United States of America,2012,Male,Age_all,[All],17362,1.36309393,8.01051332,11.1875913
+NAC,North America and the Caribbean,USA,United States of America,2012,Female,Age_all,[All],18754,1.47720586,6.49440974,11.80580242
+NAC,North America and the Caribbean,USA,United States of America,2013,All,Age_all,[All],37453,1.44216792,7.3520415,11.83721123
+NAC,North America and the Caribbean,USA,United States of America,2013,Male,Age_all,[All],18060,1.38281557,8.1797169,11.54668667
+NAC,North America and the Caribbean,USA,United States of America,2013,Female,Age_all,[All],19393,1.50221308,6.58804645,12.12122849
+NAC,North America and the Caribbean,USA,United States of America,2014,All,Age_all,[All],39767,1.51411542,7.69396016,12.47891999
+NAC,North America and the Caribbean,USA,United States of America,2014,Male,Age_all,[All],19178,1.44386665,8.51807344,12.17018246
+NAC,North America and the Caribbean,USA,United States of America,2014,Female,Age_all,[All],20589,1.58599084,6.93150743,12.78093022
+NAC,North America and the Caribbean,USA,United States of America,2020,All,Age_all,[All],55619,1.6437191,9.4959028,16.80318869
+NAC,North America and the Caribbean,USA,United States of America,2020,Male,Age_all,[All],28214,1.59411577,10.88096814,17.22613486
+NAC,North America and the Caribbean,USA,United States of America,2020,Female,Age_all,[All],27405,1.69811847,8.23242025,16.38892007
+NAC,North America and the Caribbean,USA,United States of America,2019,All,Age_all,[All],48841,1.71081511,8.48034493,14.84236012
+NAC,North America and the Caribbean,USA,United States of America,2019,Male,Age_all,[All],24722,1.67740631,9.69212328,15.18305099
+NAC,North America and the Caribbean,USA,United States of America,2019,Female,Age_all,[All],24119,1.74646908,7.38681889,14.50866248
+NAC,North America and the Caribbean,USA,United States of America,2018,All,Age_all,[All],46542,1.63926169,8.22537869,14.22883872
+NAC,North America and the Caribbean,USA,United States of America,2018,Male,Age_all,[All],23220,1.59208046,9.29722829,14.34686695
+NAC,North America and the Caribbean,USA,United States of America,2018,Female,Age_all,[All],23322,1.68909915,7.25556872,14.11324045
+NAC,North America and the Caribbean,USA,United States of America,2017,All,Age_all,[All],44359,1.57664662,8.05244696,13.64536453
+NAC,North America and the Caribbean,USA,United States of America,2017,Male,Age_all,[All],21938,1.52441334,9.02318716,13.63956191
+NAC,North America and the Caribbean,USA,United States of America,2017,Female,Age_all,[All],22421,1.63133953,7.17356446,13.65104677
+NAC,North America and the Caribbean,USA,United States of America,2016,All,Age_all,[All],42761,1.55820465,7.95219043,13.23804414
+NAC,North America and the Caribbean,USA,United States of America,2016,Male,Age_all,[All],21015,1.50082272,8.86950375,13.1509591
+NAC,North America and the Caribbean,USA,United States of America,2016,Female,Age_all,[All],21746,1.61798669,7.12735236,13.32330493
+NAC,North America and the Caribbean,USA,United States of America,2015,All,Age_all,[All],41407,1.52645219,7.85445482,12.90426891
+NAC,North America and the Caribbean,USA,United States of America,2015,Male,Age_all,[All],20303,1.47829772,8.81008206,12.79234369
+NAC,North America and the Caribbean,USA,United States of America,2015,Female,Age_all,[All],21104,1.57583559,6.9843,13.01381001
+NAC,North America and the Caribbean,USA,United States of America,2021,All,Age_all,[All],59720,1.72390352,10.05490274,17.9385089
+NAC,North America and the Caribbean,USA,United States of America,2021,Male,Age_all,[All],30513,1.66002215,11.49553592,18.52310168
+NAC,North America and the Caribbean,USA,United States of America,2021,Female,Age_all,[All],29207,1.79611259,8.75850668,17.36592939
+AS,Asia,HKG,"China, Hong Kong SAR",2000,All,Age_all,[All],72,0.21183324,0.9723576,1.08027007
+AS,Asia,HKG,"China, Hong Kong SAR",2000,Male,Age_all,[All],38,0.19719772,1.19565449,1.15977415
+AS,Asia,HKG,"China, Hong Kong SAR",2000,Female,Age_all,[All],34,0.23099395,0.77925507,1.00339383
+AS,Asia,HKG,"China, Hong Kong SAR",2001,All,Age_all,[All],148,0.44437772,1.86796098,2.20425063
+AS,Asia,HKG,"China, Hong Kong SAR",2001,Male,Age_all,[All],71,0.37354659,2.14097938,2.16331505
+AS,Asia,HKG,"China, Hong Kong SAR",2001,Female,Age_all,[All],77,0.53868756,1.6157423,2.24339364
+AS,Asia,HKG,"China, Hong Kong SAR",2002,All,Age_all,[All],148,0.4312857,1.76798582,2.19451076
+AS,Asia,HKG,"China, Hong Kong SAR",2002,Male,Age_all,[All],61,0.31245198,1.71575428,1.85998292
+AS,Asia,HKG,"China, Hong Kong SAR",2002,Female,Age_all,[All],87,0.58819552,1.78212776,2.51118488
+AS,Asia,HKG,"China, Hong Kong SAR",2003,All,Age_all,[All],168,0.46124701,2.02638171,2.49598859
+AS,Asia,HKG,"China, Hong Kong SAR",2003,Male,Age_all,[All],82,0.40109568,2.34021285,2.51603203
+AS,Asia,HKG,"China, Hong Kong SAR",2003,Female,Age_all,[All],86,0.53827377,1.68263988,2.47717257
+AS,Asia,HKG,"China, Hong Kong SAR",2004,All,Age_all,[All],142,0.38048284,1.61695995,2.09331466
+AS,Asia,HKG,"China, Hong Kong SAR",2004,Male,Age_all,[All],65,0.30918518,1.77833477,1.98971471
+AS,Asia,HKG,"China, Hong Kong SAR",2004,Female,Age_all,[All],77,0.47259559,1.45061572,2.18955271
+AS,Asia,HKG,"China, Hong Kong SAR",2005,All,Age_all,[All],168,0.4342993,1.74337155,2.46580168
+AS,Asia,HKG,"China, Hong Kong SAR",2005,Male,Age_all,[All],74,0.34310089,1.94329362,2.26715686
+AS,Asia,HKG,"China, Hong Kong SAR",2005,Female,Age_all,[All],94,0.54938632,1.5562448,2.64848417
+AS,Asia,HKG,"China, Hong Kong SAR",2006,All,Age_all,[All],166,0.44367232,1.75831663,2.42084846
+AS,Asia,HKG,"China, Hong Kong SAR",2006,Male,Age_all,[All],84,0.39998095,1.99168866,2.56872879
+AS,Asia,HKG,"China, Hong Kong SAR",2006,Female,Age_all,[All],82,0.49990855,1.54885437,2.2860329
+AS,Asia,HKG,"China, Hong Kong SAR",2007,All,Age_all,[All],172,0.43039812,1.79022992,2.48687882
+AS,Asia,HKG,"China, Hong Kong SAR",2007,Male,Age_all,[All],81,0.35805853,1.91862845,2.46657937
+AS,Asia,HKG,"China, Hong Kong SAR",2007,Female,Age_all,[All],91,0.52494952,1.69443905,2.5052307
+AS,Asia,HKG,"China, Hong Kong SAR",2008,All,Age_all,[All],184,0.44305321,1.8033217,2.64451407
+AS,Asia,HKG,"China, Hong Kong SAR",2008,Male,Age_all,[All],95,0.41304348,2.10950268,2.88736247
+AS,Asia,HKG,"China, Hong Kong SAR",2008,Female,Age_all,[All],89,0.48032813,1.56535124,2.42665503
+AS,Asia,HKG,"China, Hong Kong SAR",2009,All,Age_all,[All],161,0.39223329,1.37154507,2.30897201
+AS,Asia,HKG,"China, Hong Kong SAR",2009,Male,Age_all,[All],64,0.27997725,1.28730165,1.94836824
+AS,Asia,HKG,"China, Hong Kong SAR",2009,Female,Age_all,[All],97,0.53346532,1.44604206,2.63015184
+AS,Asia,HKG,"China, Hong Kong SAR",2010,All,Age_all,[All],210,0.4918148,1.88839683,2.9896643
+AS,Asia,HKG,"China, Hong Kong SAR",2010,Male,Age_all,[All],104,0.43658956,2.37237714,3.1569681
+AS,Asia,HKG,"China, Hong Kong SAR",2010,Female,Age_all,[All],106,0.56179775,1.38391484,2.84189925
+AS,Asia,HKG,"China, Hong Kong SAR",2011,All,Age_all,[All],173,0.41006921,1.74935976,2.44640534
+AS,Asia,HKG,"China, Hong Kong SAR",2011,Male,Age_all,[All],89,0.37699085,2.12068993,2.69452013
+AS,Asia,HKG,"China, Hong Kong SAR",2011,Female,Age_all,[All],84,0.45219638,1.37216026,2.22894444
+AS,Asia,HKG,"China, Hong Kong SAR",2012,All,Age_all,[All],161,0.36865726,1.43079973,2.25171676
+AS,Asia,HKG,"China, Hong Kong SAR",2012,Male,Age_all,[All],80,0.32859607,1.73502404,2.40435188
+AS,Asia,HKG,"China, Hong Kong SAR",2012,Female,Age_all,[All],81,0.41923296,1.14723414,2.11886575
+AS,Asia,HKG,"China, Hong Kong SAR",2013,All,Age_all,[All],184,0.4239729,1.52271839,2.56306677
+AS,Asia,HKG,"China, Hong Kong SAR",2013,Male,Age_all,[All],95,0.39339103,1.79165535,2.85293853
+AS,Asia,HKG,"China, Hong Kong SAR",2013,Female,Age_all,[All],89,0.46248181,1.30536675,2.31228891
+AS,Asia,HKG,"China, Hong Kong SAR",2014,All,Age_all,[All],193,0.42222708,1.34928175,2.66961754
+AS,Asia,HKG,"China, Hong Kong SAR",2014,Male,Age_all,[All],84,0.33099535,1.51659564,2.51158619
+AS,Asia,HKG,"China, Hong Kong SAR",2014,Female,Age_all,[All],109,0.53620622,1.17908105,2.80566281
+AS,Asia,HKG,"China, Hong Kong SAR",2017,All,Age_all,[All],153,0.33345684,1.11189049,2.0698892
+AS,Asia,HKG,"China, Hong Kong SAR",2017,Male,Age_all,[All],58,0.22827456,1.04485464,1.70965365
+AS,Asia,HKG,"China, Hong Kong SAR",2017,Female,Age_all,[All],95,0.46407113,1.15927063,2.3754751
+AS,Asia,HKG,"China, Hong Kong SAR",2016,All,Age_all,[All],182,0.390039,1.22608571,2.48071314
+AS,Asia,HKG,"China, Hong Kong SAR",2016,Male,Age_all,[All],80,0.30766864,1.43532853,2.37008947
+AS,Asia,HKG,"China, Hong Kong SAR",2016,Female,Age_all,[All],102,0.49373155,0.99486263,2.57497728
+AS,Asia,HKG,"China, Hong Kong SAR",2015,All,Age_all,[All],178,0.38069166,1.32889542,2.44126562
+AS,Asia,HKG,"China, Hong Kong SAR",2015,Male,Age_all,[All],71,0.27508718,1.33684542,2.10957927
+AS,Asia,HKG,"China, Hong Kong SAR",2015,Female,Age_all,[All],107,0.51091057,1.31879699,2.72562855
+OA,Oceania,AUS,Australia,2000,All,Age_all,[All],1362,1.05758479,4.9473573,7.11101644
+OA,Oceania,AUS,Australia,2000,Male,Age_all,[All],672,1.00211757,5.74146269,7.06971698
+OA,Oceania,AUS,Australia,2000,Female,Age_all,[All],690,1.11784337,4.21935748,7.15170497
+OA,Oceania,AUS,Australia,2001,All,Age_all,[All],1445,1.12314138,5.03730276,7.4433737
+OA,Oceania,AUS,Australia,2001,Male,Age_all,[All],674,1.00875552,5.58354508,6.99848775
+OA,Oceania,AUS,Australia,2001,Female,Age_all,[All],771,1.24672553,4.46136866,7.88135001
+OA,Oceania,AUS,Australia,2002,All,Age_all,[All],1515,1.13869535,5.08618521,7.70352484
+OA,Oceania,AUS,Australia,2002,Male,Age_all,[All],713,1.03817816,5.65048442,7.30009887
+OA,Oceania,AUS,Australia,2002,Female,Age_all,[All],802,1.24594137,4.53751409,8.10155757
+OA,Oceania,AUS,Australia,2003,All,Age_all,[All],1550,1.17616706,5.05923961,7.79966593
+OA,Oceania,AUS,Australia,2003,Male,Age_all,[All],764,1.12452164,5.85128393,7.73792577
+OA,Oceania,AUS,Australia,2003,Female,Age_all,[All],786,1.23112587,4.34149038,7.86062964
+OA,Oceania,AUS,Australia,2004,All,Age_all,[All],1678,1.26819535,5.27774015,8.33467609
+OA,Oceania,AUS,Australia,2004,Male,Age_all,[All],795,1.16452804,5.90737825,7.95087539
+OA,Oceania,AUS,Australia,2004,Female,Age_all,[All],883,1.37869656,4.71971243,8.7133655
+OA,Oceania,AUS,Australia,2006,All,Age_all,[All],1762,1.31749153,5.31624709,8.63946093
+OA,Oceania,AUS,Australia,2006,Male,Age_all,[All],837,1.2208997,6.02403617,8.26416579
+OA,Oceania,AUS,Australia,2006,Female,Age_all,[All],925,1.41908166,4.63390189,9.00968731
+OA,Oceania,AUS,Australia,2007,All,Age_all,[All],1849,1.3412741,5.20854733,8.77448908
+OA,Oceania,AUS,Australia,2007,Male,Age_all,[All],844,1.19599257,5.66597536,8.05687389
+OA,Oceania,AUS,Australia,2007,Female,Age_all,[All],1005,1.49364643,4.76423484,9.4838833
+OA,Oceania,AUS,Australia,2008,All,Age_all,[All],2011,1.39705167,5.51805166,9.35412358
+OA,Oceania,AUS,Australia,2008,Male,Age_all,[All],932,1.26719965,6.13867146,8.71343757
+OA,Oceania,AUS,Australia,2008,Female,Age_all,[All],1079,1.532714,4.87109814,9.98850535
+OA,Oceania,AUS,Australia,2009,All,Age_all,[All],1959,1.39173061,5.2388595,8.92412336
+OA,Oceania,AUS,Australia,2009,Male,Age_all,[All],891,1.23202434,5.68678917,8.15160485
+OA,Oceania,AUS,Australia,2009,Female,Age_all,[All],1068,1.56049094,4.74671768,9.69026273
+OA,Oceania,AUS,Australia,2010,All,Age_all,[All],1935,1.34868582,4.95662113,8.67809709
+OA,Oceania,AUS,Australia,2010,Male,Age_all,[All],922,1.2546949,5.57449264,8.30612372
+OA,Oceania,AUS,Australia,2010,Female,Age_all,[All],1013,1.4473703,4.37163895,9.04684722
+OA,Oceania,AUS,Australia,2011,All,Age_all,[All],2144,1.4591784,5.35207404,9.59712487
+OA,Oceania,AUS,Australia,2011,Male,Age_all,[All],971,1.28899509,5.74352197,8.73340137
+OA,Oceania,AUS,Australia,2011,Female,Age_all,[All],1173,1.6382224,4.96486003,10.45287784
+OA,Oceania,AUS,Australia,2012,All,Age_all,[All],2046,1.39090946,4.89157831,9.00201133
+OA,Oceania,AUS,Australia,2012,Male,Age_all,[All],920,1.23004519,5.27827478,8.13236449
+OA,Oceania,AUS,Australia,2012,Female,Age_all,[All],1126,1.55731356,4.46949689,9.86384132
+OA,Oceania,AUS,Australia,2013,All,Age_all,[All],2030,1.37461233,4.9097964,8.78128218
+OA,Oceania,AUS,Australia,2013,Male,Age_all,[All],924,1.2192869,5.21427409,8.030881
+OA,Oceania,AUS,Australia,2013,Female,Age_all,[All],1106,1.53833315,4.58178389,9.52482163
+OA,Oceania,AUS,Australia,2014,All,Age_all,[All],2124,1.38299258,4.95198398,9.03670664
+OA,Oceania,AUS,Australia,2014,Male,Age_all,[All],1022,1.30455317,5.57571009,8.7504555
+OA,Oceania,AUS,Australia,2014,Female,Age_all,[All],1102,1.46466593,4.35473042,9.31943908
+OA,Oceania,AUS,Australia,2017,All,Age_all,[All],2250,1.39679544,4.93472041,9.14849768
+OA,Oceania,AUS,Australia,2017,Male,Age_all,[All],1073,1.29317618,5.44879005,8.79204367
+OA,Oceania,AUS,Australia,2017,Female,Age_all,[All],1177,1.50686861,4.42550798,9.49960718
+OA,Oceania,AUS,Australia,2016,All,Age_all,[All],2208,1.39302478,4.90861546,9.1273965
+OA,Oceania,AUS,Australia,2016,Male,Age_all,[All],1054,1.28745404,5.46403933,8.78110952
+OA,Oceania,AUS,Australia,2016,Female,Age_all,[All],1154,1.50580007,4.34740185,9.46843205
+OA,Oceania,AUS,Australia,2015,All,Age_all,[All],2256,1.41840404,5.18790681,9.47262544
+OA,Oceania,AUS,Australia,2015,Male,Age_all,[All],1055,1.29718431,5.70578412,8.91977546
+OA,Oceania,AUS,Australia,2015,Female,Age_all,[All],1201,1.54525102,4.64789354,10.01806505
+OA,Oceania,AUS,Australia,2022,All,Age_all,[All],2735,1.43239464,5.3471687,10.51698984
+OA,Oceania,AUS,Australia,2022,Male,Age_all,[All],1337,1.33801689,5.91575081,10.35853148
+OA,Oceania,AUS,Australia,2022,Female,Age_all,[All],1398,1.53601055,4.80747229,10.67313672
+OA,Oceania,AUS,Australia,2021,All,Age_all,[All],2673,1.55888236,5.32611519,10.40668532
+OA,Oceania,AUS,Australia,2021,Male,Age_all,[All],1301,1.45524099,5.88360452,10.20439377
+OA,Oceania,AUS,Australia,2021,Female,Age_all,[All],1372,1.67178437,4.79607581,10.60605897
+OA,Oceania,AUS,Australia,2020,All,Age_all,[All],2382,1.47675139,4.7649071,9.28682198
+OA,Oceania,AUS,Australia,2020,Male,Age_all,[All],1166,1.37844612,5.38639592,9.1604452
+OA,Oceania,AUS,Australia,2020,Female,Age_all,[All],1216,1.58514965,4.14859784,9.41132109
+OA,Oceania,AUS,Australia,2019,All,Age_all,[All],2398,1.41925403,5.01607481,9.46523177
+OA,Oceania,AUS,Australia,2019,Male,Age_all,[All],1160,1.31652121,5.53080354,9.22302311
+OA,Oceania,AUS,Australia,2019,Female,Age_all,[All],1238,1.53121174,4.5200752,9.70401576
+OA,Oceania,AUS,Australia,2018,All,Age_all,[All],2163,1.36329258,4.6213269,8.66473439
+OA,Oceania,AUS,Australia,2018,Male,Age_all,[All],1050,1.27363812,5.21662259,8.47442511
+OA,Oceania,AUS,Australia,2018,Female,Age_all,[All],1113,1.46026581,4.03769721,8.8522765
